@@ -25,11 +25,6 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "PINE",
-    "sector": "Technology",
-    "sub_sector": "Others"
-  },
-  {
     "investing_symbol": "CSTH",
     "sector": "Basic Materials",
     "sub_sector": "Metals & Mining"
@@ -625,6 +620,11 @@
     "sub_sector": "Media & Publishing"
   },
   {
+    "investing_symbol": "UCRE",
+    "sector": "Technology",
+    "sub_sector": "Software & IT Services"
+  },
+  {
     "investing_symbol": "TWEL",
     "sector": "Basic Materials",
     "sub_sector": "Paper & Forest Products"
@@ -633,11 +633,6 @@
     "investing_symbol": "EKOV",
     "sector": "Industrials",
     "sub_sector": "Construction & Engineering"
-  },
-  {
-    "investing_symbol": "UCRE",
-    "sector": "Technology",
-    "sub_sector": "Software & IT Services"
   },
   {
     "investing_symbol": "MENT",
@@ -875,6 +870,11 @@
     "sub_sector": "Containers & Packaging"
   },
   {
+    "investing_symbol": "PINE",
+    "sector": "Technology",
+    "sub_sector": "Others"
+  },
+  {
     "investing_symbol": "WENT",
     "sector": "Basic Materials",
     "sub_sector": "Metals & Mining"
@@ -1095,14 +1095,14 @@
     "sub_sector": "Metals & Mining"
   },
   {
-    "investing_symbol": "PUCB",
-    "sector": "Technology",
-    "sub_sector": "Software & IT Services"
-  },
-  {
     "investing_symbol": "TASH",
     "sector": "Basic Materials",
     "sub_sector": "Metals & Mining"
+  },
+  {
+    "investing_symbol": "PUCB",
+    "sector": "Technology",
+    "sub_sector": "Software & IT Services"
   },
   {
     "investing_symbol": "MMAG",

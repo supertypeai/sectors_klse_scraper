@@ -586,8 +586,8 @@
   },
   {
     "investing_symbol": "SETIq",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
     "investing_symbol": "ESAN",
@@ -811,8 +811,8 @@
   },
   {
     "investing_symbol": "ANNJq",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Basic Materials",
+    "sub_sector": "Metals & Mining"
   },
   {
     "investing_symbol": "AURH",
@@ -846,8 +846,8 @@
   },
   {
     "investing_symbol": "YONGq",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
     "investing_symbol": "EONM",
@@ -1141,8 +1141,8 @@
   },
   {
     "investing_symbol": "OMHO",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
     "investing_symbol": "PEKA",

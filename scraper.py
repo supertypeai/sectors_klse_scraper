@@ -20,30 +20,30 @@ BASE_URL = "https://my.bursamalaysia.com/stock-details?stockcode="
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
 
 SYMBOL_MAP = {
-  "HEKR" : "", # REITs
-  "KIPR" : "", # REITs
-  "TWRE" : "", # REITs
-  # LBSBq -> LBSB
-  "PREI" : "", # REITs
-  "YTLR" : "", # REITs
-  "KLCC" : "", # REITs
-  "CAMA" : "", # REITs
-  # SETIq -> SETI
-  # ANNJq -> ANNJ
-  "ATRL" : "", # REITs
-  # YONGq -> YONG
-  "UOAR" : "", # REITs
-  "AMRY" : "", # REITs
-  "ALQA" : "", # REITs
+  # "HEKR" : "", # REITs
+  # "KIPR" : "", # REITs
+  # "TWRE" : "", # REITs
+  "LBSBq" : "LBSB",
+  # "PREI" : "", # REITs
+  # "YTLR" : "", # REITs
+  # "KLCC" : "", # REITs
+  # "CAMA" : "", # REITs
+  "SETIq" : "SETI",
+  "ANNJq" : "ANNJ",
+  # "ATRL" : "", # REITs
+  "YONGq" : "YONG",
+  # "UOAR" : "", # REITs
+  # "AMRY" : "", # REITs
+  # "ALQA" : "", # REITs
   # OMHO -> Special Case, ada Sector tapi ga ada SubSector
   # MDCH -> Special Case, ada Sector tapi ga ada SubSector
-  "SUNW" : "", # REITs
-  "AMFL" : "", # REITs
-  "SENT" : "", # REITs
-  "AXSR" : "", # REITs
-  # SWAYq -> SWAY
-  "IGRE" : "", # REITs
-  "PROL" : "", # Business Trusts
+  # "SUNW" : "", # REITs
+  # "AMFL" : "", # REITs
+  # "SENT" : "", # REITs
+  # "AXSR" : "", # REITs
+  "SWAYq" : "SWAY",
+  # "IGRE" : "", # REITs
+  # "PROL" : "", # Business Trusts
 }
 
 def get_url(base_url: str, symbol: str) -> str:
@@ -69,8 +69,8 @@ def read_page(url: str) -> BeautifulSoup | None:
   # finally:
   #   print(f"Session in {url} is closed")
 
-def scrap_stock_page(base_url, symbol: str) -> dict | None:
-  url = get_url(base_url, symbol)
+def scrap_stock_page(base_url, symbol: str, new_symbol: str) -> dict | None:
+  url = get_url(base_url, new_symbol)
   soup = read_page(url)
   
   sector = None
@@ -83,7 +83,10 @@ def scrap_stock_page(base_url, symbol: str) -> dict | None:
     try:
       sector_elm = soup.findAll("a", {"class": "stock-links"})
       sector = sector_elm[0].get_text()
-      sub_sector = sector_elm[1].get_text()
+      if (len(sector_elm) > 1):
+        sub_sector = sector_elm[1].get_text()
+      else:
+        sub_sector = sector
     except:
       print(f"Failed to get Sector and Subsector data from {url}")
       sector = None
@@ -119,7 +122,6 @@ def scrap_function(symbol_list, process_idx):
     attempt_count = 1
     symbol = symbol_list[i]
 
-
     if (symbol is not None):
       scrapped_data = {
         "investing_symbol" : symbol,
@@ -127,9 +129,15 @@ def scrap_function(symbol_list, process_idx):
         "sub_sector" : None
       }
 
+      # Check if symbol is in symbol_list
+      if (symbol in SYMBOL_MAP):
+        new_symbol = SYMBOL_MAP[symbol]
+      else:
+        new_symbol = symbol
+
       # Handling for page that returns None although it should not
       while ((scrapped_data is None or (scrapped_data['sector'] is None and scrapped_data['sub_sector'] is None)) and attempt_count <= 3):
-        scrapped_data = scrap_stock_page(BASE_URL, symbol)
+        scrapped_data = scrap_stock_page(BASE_URL, symbol, new_symbol)
 
         if (scrapped_data is None or (scrapped_data['sector'] is None and scrapped_data['sub_sector'] is None)):
           print(f"Data not found! Retrying.. Attempt: {attempt_count}")

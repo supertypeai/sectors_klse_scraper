@@ -176,8 +176,8 @@
   },
   {
     "investing_symbol": "MDCH",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
     "investing_symbol": "YGLC",
@@ -1056,8 +1056,8 @@
   },
   {
     "investing_symbol": "SWAYq",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
   },
   {
     "investing_symbol": "HOWA",

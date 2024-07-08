@@ -7641,7 +7641,7 @@
     "dividend_growth_rate":null,
     "payout_ratio":null,
     "sector":"Basic Materials",
-    "sub_sector":"Basic Materials",
+    "sub_sector":"Metals & Mining",
     "symbol":"6556PA",
     "close":[
       {
@@ -82565,8 +82565,8 @@
     "dividend_yield_5y_avg":null,
     "dividend_growth_rate":null,
     "payout_ratio":null,
-    "sector":"Properties & Real Estate",
-    "sub_sector":"Properties & Real Estate",
+    "sector":"Others",
+    "sub_sector":"Others",
     "symbol":"5789PA",
     "close":[
       {
@@ -91723,8 +91723,8 @@
     "dividend_yield_5y_avg":0.05,
     "dividend_growth_rate":null,
     "payout_ratio":"2.3817",
-    "sector":"Consumer Cyclicals",
-    "sub_sector":"Media & Entertainment",
+    "sector":"Others",
+    "sub_sector":"Others",
     "symbol":"5090",
     "close":[
       {
@@ -109569,8 +109569,8 @@
     "dividend_yield_5y_avg":null,
     "dividend_growth_rate":null,
     "payout_ratio":"0.4049",
-    "sector":"Basic Materials",
-    "sub_sector":"Basic Materials",
+    "sector":"Others",
+    "sub_sector":"Others",
     "symbol":"5298",
     "close":[
       {
@@ -134878,7 +134878,7 @@
     "eps":0.04,
     "beta":0.859,
     "forward_dividend":0.02,
-    "forward_dividend_yield":0.013300001,
+    "forward_dividend_yield":0.0136,
     "daily_signal":"strong_buy",
     "weekly_signal":"strong_buy",
     "monthly_signal":"strong_buy",
@@ -137506,8 +137506,8 @@
     "dividend_yield_5y_avg":null,
     "dividend_growth_rate":null,
     "payout_ratio":null,
-    "sector":"Properties & Real Estate",
-    "sub_sector":"Properties & Real Estate",
+    "sector":"Others",
+    "sub_sector":"Others",
     "symbol":"8664PA",
     "close":[
       {
@@ -148004,8 +148004,8 @@
     "dividend_yield_5y_avg":0.0264,
     "dividend_growth_rate":"-0.3333",
     "payout_ratio":null,
-    "sector":"Infrastructures",
-    "sub_sector":"Heavy Constructions & Civil Engineering",
+    "sector":"Industrials",
+    "sub_sector":"Construction & Engineering",
     "symbol":"5211PA",
     "close":[
       {
@@ -171911,8 +171911,8 @@
     "dividend_yield_5y_avg":null,
     "dividend_growth_rate":"0.0",
     "payout_ratio":null,
-    "sector":"Properties & Real Estate",
-    "sub_sector":"Properties & Real Estate",
+    "sector":"Others",
+    "sub_sector":"Others",
     "symbol":"7066PA",
     "close":[
       {

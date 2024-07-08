@@ -150,14 +150,14 @@
     "sub_sector": "Hotels & Entertainment Services"
   },
   {
-    "investing_symbol": "SCTH",
-    "sector": "Industrials",
-    "sub_sector": "Machinery Equipment & Components"
-  },
-  {
     "investing_symbol": "XOXN",
     "sector": "Consumer Cyclicals",
     "sub_sector": "Specialty Retailers"
+  },
+  {
+    "investing_symbol": "SCTH",
+    "sector": "Industrials",
+    "sub_sector": "Machinery Equipment & Components"
   },
   {
     "investing_symbol": "IQZA",
@@ -441,8 +441,8 @@
   },
   {
     "investing_symbol": "LBSBq",
-    "sector": null,
-    "sub_sector": null
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
     "investing_symbol": "SHIN",
