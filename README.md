@@ -1,2 +1,2 @@
 # sectors_klse_scraper
-Scrape sector and subsector data for Stocks in KLSE
+A system to scrap KLSE's stocks details
