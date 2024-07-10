@@ -25,6 +25,13 @@ def combine_data (df_db_data):
 
   indices_list = df_db_data.index.tolist()
 
+  
+  # Save to JSON and CSV
+  cwd = os.getcwd()
+  data_dir = os.path.join(cwd, "data")
+  df_scraped.to_json(os.path.join(data_dir, "final_data.json"), orient="records", indent=2)
+  df_scraped.to_csv(os.path.join(data_dir, "final_data.csv"), index=False)
+
   # Reset index
   df_db_data = df_db_data.reset_index(drop= True)
   df_scraped = df_scraped.reset_index(drop= True)

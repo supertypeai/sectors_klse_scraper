@@ -55,13 +55,6 @@ if __name__ == "__main__":
   # Merge data
   df_final = combine_data(df_db_data)
 
-  # # Save to JSON and CSV
-  cwd = os.getcwd()
-  data_dir = os.path.join(cwd, "data")
-  
-  df_final.to_json(os.path.join(data_dir, "final_data.json"), orient="records", indent=2)
-  df_final.to_csv(os.path.join(data_dir, "final_data.csv"), index=False)
-
   # # Convert to json. Remove the index in dataframe
   # records = df_final.to_dict(orient="records")
 
