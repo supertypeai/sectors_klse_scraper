@@ -38,41 +38,69 @@ HEADERS = {
 # INVESTING_API_SG = "https://api.investing.com/api/financialdata/assets/equitiesByCountry/default?fields-list=id%2Cname%2Csymbol%2CisCFD%2Chigh%2Clow%2Clast%2ClastPairDecimal%2Cchange%2CchangePercent%2Cvolume%2Ctime%2CisOpen%2Curl%2Cflag%2CcountryNameTranslated%2CexchangeId%2CperformanceDay%2CperformanceWeek%2CperformanceMonth%2CperformanceYtd%2CperformanceYear%2Cperformance3Year%2CtechnicalHour%2CtechnicalDay%2CtechnicalWeek%2CtechnicalMonth%2CavgVolume%2CfundamentalMarketCap%2CfundamentalRevenue%2CfundamentalRatio%2CfundamentalBeta%2CpairType&country-id=36&filter-domain=&page=0&page-size=1000&limit=0&include-additional-indices=false&include-major-indices=false&include-other-indices=false&include-primary-sectors=false&include-market-overview=false"
 INVESTING_API_MY = "https://api.investing.com/api/financialdata/assets/equitiesByCountry/default?fields-list=id%2Cname%2Csymbol%2CisCFD%2Chigh%2Clow%2Clast%2ClastPairDecimal%2Cchange%2CchangePercent%2Cvolume%2Ctime%2CisOpen%2Curl%2Cflag%2CcountryNameTranslated%2CexchangeId%2CperformanceDay%2CperformanceWeek%2CperformanceMonth%2CperformanceYtd%2CperformanceYear%2Cperformance3Year%2CtechnicalHour%2CtechnicalDay%2CtechnicalWeek%2CtechnicalMonth%2CavgVolume%2CfundamentalMarketCap%2CfundamentalRevenue%2CfundamentalRatio%2CfundamentalBeta%2CpairType&country-id=42&filter-domain=&page=0&page-size=2000&limit=0&include-additional-indices=false&include-major-indices=false&include-other-indices=false&include-primary-sectors=false&include-market-overview=false"
 
-SYMBOL_MAP = {
-  "HEKR" : "/equities/hektar-reit", # REITs
-  "KIPR" : "/equities/kip-real-estate-investment-trust", # REITs
-  "TWRE" : "/equities/tower-real-estate", # REITs
-  "PREI" : "/equities/pavilion-real-estate-inv-trust", # REITs
-  "YTLR" : "/equities/ytl-hospitality-reit", # REITs
-  "KLCC" : "/equities/klcc-prop-reits---stapled-sec", # REITs
-  "CAMA" : "/equities/capitamalls-malaysia-trust", # REITs
-  "ATRL" : "/equities/atrium", # REITs
-  "UOAR" : "/equities/uoa-reit", # REITs
-  "AMRY" : "/equities/amanahraya-real-estate", # REITs
-  "ALQA" : "/equities/al-aqar-healthcare-reit", # REITs
-  "SUNW" : "/equities/sunway-real-estate-invest-trust", # REITs
-  "AMFL" : "/equities/amfirst", # REITs
-  "SENT" : "/equities/mrcb-quill-unit", # REITs
-  "AXSR" : "/equities/axis-real-estate-investment-trust", # REITs
-  "IGRE" : "/equities/igb-real-estate-investment-trust", # REITs
-  "PROL" : "/equities/prolintas-infra-business-trust-unt", # Business Trusts
-  "PELK" : "/equities/pelikan-international-corp-company-profile"
-}
+# SYMBOL_MAP = {
+#   "HEKR" : "/equities/hektar-reit", # REITs
+#   "KIPR" : "/equities/kip-real-estate-investment-trust", # REITs
+#   "TWRE" : "/equities/tower-real-estate", # REITs
+#   "PREI" : "/equities/pavilion-real-estate-inv-trust", # REITs
+#   "YTLR" : "/equities/ytl-hospitality-reit", # REITs
+#   "KLCC" : "/equities/klcc-prop-reits---stapled-sec", # REITs
+#   "CAMA" : "/equities/capitamalls-malaysia-trust", # REITs
+#   "ATRL" : "/equities/atrium", # REITs
+#   "UOAR" : "/equities/uoa-reit", # REITs
+#   "AMRY" : "/equities/amanahraya-real-estate", # REITs
+#   "ALQA" : "/equities/al-aqar-healthcare-reit", # REITs
+#   "SUNW" : "/equities/sunway-real-estate-invest-trust", # REITs
+#   "AMFL" : "/equities/amfirst", # REITs
+#   "SENT" : "/equities/mrcb-quill-unit", # REITs
+#   "AXSR" : "/equities/axis-real-estate-investment-trust", # REITs
+#   "IGRE" : "/equities/igb-real-estate-investment-trust", # REITs
+#   "PROL" : "/equities/prolintas-infra-business-trust-unt", # Business Trusts
+#   "PELK" : "/equities/pelikan-international-corp-company-profile"
+# }
 
 def complete_url(url: str) -> str:
   return f"https://www.investing.com{url}-company-profile"
 
-# def get_investing_api():
-#   res = requests.get(INVESTING_API_MY, headers=HEADERS)
-#   if (res.status_code == 200):
-#     res_data = res.text
-#     data = json.loads(res_data)['data']
-#     return data
-#   else:
-#     print(f"Error : {res.status_code}")
-#     return None
+def get_investing_api():
+    try:
+        url = INVESTING_API_MY
+        # Set up SSL context to ignore SSL certificate errors
+        ssl._create_default_https_context = ssl._create_unverified_context
+        
+        # Set up proxy support
+        proxy = os.environ.get("PROXY")
+        if proxy:
+            proxy_support = urllib.request.ProxyHandler({'http': proxy, 'https': proxy})
+            opener = urllib.request.build_opener(proxy_support)
+            urllib.request.install_opener(opener)
+        
+        # Fetch the URL content
+        request = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(request) as response:
+            status_code = response.getcode()
+            print(f"Response status code: {status_code} for {url}")
+            
+            if status_code == 200:
+                html = response.read()
+                data_from_api = json.loads(html)
+                return data_from_api['data']
+  
+            else:
+                print(f"Failed to open {url}: Status code {status_code}")
+                return None
+    except Exception as e:
+        print(f"Failed to open {url}: {e}")
+        return None
 
-
+# data_list = get_investing_api()
+def get_url_from_api(data_list: list, investing_symbol: str) -> str | None:
+  for data in data_list:
+    if (data['Symbol'] == investing_symbol):
+       return data['Url']
+  
+  return None
+# print(get_url_from_api(data_list, "PELK"))
 
 def read_page(url: str) -> BeautifulSoup | None:
     try:
@@ -126,6 +154,9 @@ def scrap_null_data():
   data_dir = os.path.join(cwd, "data")
   data_file_path = [os.path.join(data_dir,f'P{i}_data.json') for i in range(1,5)]
 
+  # Get data from api
+  data_list_api = get_investing_api()
+
   # Iterate each file
   file_idx = 0
   for file_path in data_file_path:
@@ -143,10 +174,11 @@ def scrap_null_data():
 
     for null_data in null_list:
       symbol = null_data['data']['investing_symbol']
+      suffix_url = get_url_from_api(data_list_api, symbol)
 
-      # get URL to investing.com
-      if symbol in SYMBOL_MAP:
-        url = complete_url(SYMBOL_MAP[symbol])
+      # Get URL to investing.com
+      if suffix_url is not None:
+        url = complete_url(suffix_url)
         soup = None
 
         data_dict = {
@@ -184,7 +216,7 @@ def scrap_null_data():
             print(f"Failed to get data from {url} on attempt {attempt}. Retrying...")
 
       else:
-        print(f"This None for {symbol} is not registered yet")
+        print(f"This data for {symbol} is not provided in the API")
 
     # After done with each file
     for null_data in null_list:
