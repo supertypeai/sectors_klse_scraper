@@ -1,5 +1,6 @@
 from scraper import scrap_function
 from combiner import combine_data
+from additional_scrapper import scrap_null_data
 import pandas as pd
 from multiprocessing import Process
 import os
@@ -47,6 +48,9 @@ if __name__ == "__main__":
   p2.join()
   p3.join()
   p4.join()
+
+  # Handle null data
+  scrap_null_data()
 
   # Merge data
   df_final = combine_data(df_db_data)

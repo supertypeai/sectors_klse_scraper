@@ -44,6 +44,7 @@ SYMBOL_MAP = {
   "SWAYq" : "SWAY",
   # "IGRE" : "", # REITs
   # "PROL" : "", # Business Trusts
+  "PELK" : "PBSB"
 }
 
 def get_url(base_url: str, symbol: str) -> str:
