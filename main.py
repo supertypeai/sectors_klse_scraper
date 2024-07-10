@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
   start = time.time()
 
-  # Divide to processes
+  # # Divide to processes
   length_list = len(symbol_list)
   i1 = int(length_list / 4)
   i2 = 2 * i1
@@ -55,19 +55,19 @@ if __name__ == "__main__":
   # Merge data
   df_final = combine_data(df_db_data)
 
-  # # Convert to json. Remove the index in dataframe
-  # records = df_final.to_dict(orient="records")
+  # Convert to json. Remove the index in dataframe
+  records = df_final.to_dict(orient="records")
 
-  # # Upsert to db
-  # try:
-  #   supabase.table("sgx_companies").upsert(
-  #       records
-  #   ).execute()
-  #   print(
-  #       f"Successfully upserted {len(records)} data to database"
-  #   )
-  # except Exception as e:
-  #   raise Exception(f"Error upserting to database: {e}")
+  # Upsert to db
+  try:
+    supabase.table("klse_companies").upsert(
+        records
+    ).execute()
+    print(
+        f"Successfully upserted {len(records)} data to database"
+    )
+  except Exception as e:
+    raise Exception(f"Error upserting to database: {e}")
 
   # End time
   end = time.time()
