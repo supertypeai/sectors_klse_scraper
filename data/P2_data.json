@@ -1,5 +1,90 @@
 [
   {
+    "investing_symbol": "AURE",
+    "sector": "Technology",
+    "sub_sector": "Electronic Equipment & Parts"
+  },
+  {
+    "investing_symbol": "ALPH",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
+  },
+  {
+    "investing_symbol": "AMLE",
+    "sector": "Industrials",
+    "sub_sector": "Machinery Equipment & Components"
+  },
+  {
+    "symbol": "AMRY",
+    "sector": "Finance",
+    "sub_sector": "Real Estate Investment Trusts"
+  },
+  {
+    "investing_symbol": "DKLS",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
+  },
+  {
+    "investing_symbol": "EWEI",
+    "sector": "Industrials",
+    "sub_sector": "Machinery Equipment & Components"
+  },
+  {
+    "symbol": "HEKR",
+    "sector": "Finance",
+    "sub_sector": "Real Estate Investment Trusts"
+  },
+  {
+    "investing_symbol": "INFO",
+    "sector": "Technology",
+    "sub_sector": "Software & IT Services"
+  },
+  {
+    "investing_symbol": "EXFM",
+    "sector": "Technology",
+    "sub_sector": "Software & IT Services"
+  },
+  {
+    "investing_symbol": "FACN",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Household Goods"
+  },
+  {
+    "investing_symbol": "INFR",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
+  },
+  {
+    "investing_symbol": "BRNL",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Hotels & Entertainment Services"
+  },
+  {
+    "investing_symbol": "HEXE",
+    "sector": "Basic Materials",
+    "sub_sector": "Construction Materials"
+  },
+  {
+    "investing_symbol": "FAJA",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
+  },
+  {
+    "investing_symbol": "FCWH",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Personal &Household Products & Services"
+  },
+  {
+    "investing_symbol": "HEXI",
+    "sector": "Basic Materials",
+    "sub_sector": "Paper & Forest Products"
+  },
+  {
+    "investing_symbol": "FEHS",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
+  },
+  {
     "investing_symbol": "FIAM",
     "sector": "Consumer Cyclicals",
     "sub_sector": "Household Goods"
@@ -40,9 +125,9 @@
     "sub_sector": "Software & IT Services"
   },
   {
-    "investing_symbol": "HHCS",
-    "sector": "Industrials",
-    "sub_sector": "Construction & Engineering"
+    "investing_symbol": "INTA",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Homebuilding & Construction Supplies"
   },
   {
     "investing_symbol": "AJIY",
@@ -65,9 +150,9 @@
     "sub_sector": "Professional & Commercial Services"
   },
   {
-    "investing_symbol": "HHRG",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Textiles & Apparel"
+    "investing_symbol": "IQZA",
+    "sector": "Basic Materials",
+    "sub_sector": "Containers & Packaging"
   },
   {
     "investing_symbol": "HIAP",
@@ -100,9 +185,9 @@
     "sub_sector": "Banking Services"
   },
   {
-    "investing_symbol": "HLIB",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Others"
+    "investing_symbol": "JAYC",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Household Goods"
   },
   {
     "investing_symbol": "EDEN",
@@ -125,9 +210,9 @@
     "sub_sector": "Communications & Networking"
   },
   {
-    "investing_symbol": "HLTG",
+    "investing_symbol": "JCBN",
     "sector": "Industrials",
-    "sub_sector": "Machinery Equipment & Components"
+    "sub_sector": "Professional & Commercial Services"
   },
   {
     "investing_symbol": "APER",
@@ -165,9 +250,9 @@
     "sub_sector": "Paper & Forest Products"
   },
   {
-    "investing_symbol": "HPPH",
-    "sector": "Basic Materials",
-    "sub_sector": "Containers & Packaging"
+    "investing_symbol": "JCYI",
+    "sector": "Technology",
+    "sub_sector": "Computers Phones & Household Electronics"
   },
   {
     "investing_symbol": "CLOU",
@@ -190,9 +275,9 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "HTHB",
-    "sector": "Healthcare",
-    "sub_sector": "Healthcare Equipment & Supplies"
+    "investing_symbol": "JENT",
+    "sector": "Utilities",
+    "sub_sector": "Electrical Utilities & IPPs"
   },
   {
     "investing_symbol": "CONC",
@@ -200,24 +285,19 @@
     "sub_sector": "Construction Materials"
   },
   {
-    "investing_symbol": "HUMC",
+    "investing_symbol": "JHHS",
+    "sector": "Industrials",
+    "sub_sector": "Diversified Trading & Distributing"
+  },
+  {
+    "investing_symbol": "JIAN",
+    "sector": "Others",
+    "sub_sector": "Others"
+  },
+  {
+    "investing_symbol": "KARY",
     "sector": "Basic Materials",
-    "sub_sector": "Construction Materials"
-  },
-  {
-    "investing_symbol": "HWAT",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Tobacco"
-  },
-  {
-    "investing_symbol": "ICOI",
-    "sector": "Healthcare",
-    "sub_sector": "Healthcare Equipment & Supplies"
-  },
-  {
-    "investing_symbol": "ICON",
-    "sector": "Energy",
-    "sub_sector": "Oil & Gas Related Equipment and Services"
+    "sub_sector": "Chemicals"
   },
   {
     "investing_symbol": "HSIB",
@@ -245,14 +325,14 @@
     "sub_sector": "Software & IT Services"
   },
   {
-    "investing_symbol": "IFCA",
-    "sector": "Technology",
-    "sub_sector": "Software & IT Services"
+    "investing_symbol": "KELG",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "IGBC",
-    "sector": "Others",
-    "sub_sector": "Others"
+    "investing_symbol": "KESM",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors & Semiconductor Equipment"
   },
   {
     "investing_symbol": "IBHD",
@@ -260,14 +340,14 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "IGRE",
-    "sector": "Real Estate",
-    "sub_sector": "Residential & Commercial REITs"
+    "symbol": "IGRE",
+    "sector": "Finance",
+    "sub_sector": "Real Estate Investment Trusts"
   },
   {
-    "investing_symbol": "IHHH",
-    "sector": "Healthcare",
-    "sub_sector": "Healthcare Providers & Services"
+    "investing_symbol": "KHEE",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
   },
   {
     "investing_symbol": "AXTE",
@@ -315,12 +395,7 @@
     "sub_sector": "Software & IT Services"
   },
   {
-    "investing_symbol": "INFO",
-    "sector": "Technology",
-    "sub_sector": "Software & IT Services"
-  },
-  {
-    "investing_symbol": "INFR",
+    "investing_symbol": "KICB",
     "sector": "Industrials",
     "sub_sector": "Construction & Engineering"
   },
@@ -350,7 +425,7 @@
     "sub_sector": "Media & Publishing"
   },
   {
-    "investing_symbol": "INTA",
+    "investing_symbol": "KIMH",
     "sector": "Consumer Cyclicals",
     "sub_sector": "Homebuilding & Construction Supplies"
   },
@@ -365,9 +440,9 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "IQZA",
-    "sector": "Basic Materials",
-    "sub_sector": "Containers & Packaging"
+    "investing_symbol": "KIMI",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Specialty Retailers"
   },
   {
     "investing_symbol": "COSO",
@@ -420,9 +495,9 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "JCBN",
-    "sector": "Industrials",
-    "sub_sector": "Professional & Commercial Services"
+    "investing_symbol": "KIMT",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Drug Retailing "
   },
   {
     "investing_symbol": "JATI",
@@ -430,14 +505,14 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "JAYC",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Household Goods"
+    "investing_symbol": "KJTS",
+    "sector": "Industrials",
+    "sub_sector": "Professional & Commercial Services"
   },
   {
-    "investing_symbol": "JCYI",
-    "sector": "Technology",
-    "sub_sector": "Computers Phones & Household Electronics"
+    "investing_symbol": "KLKK",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals"
   },
   {
     "investing_symbol": "CENG",
@@ -460,9 +535,9 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "JENT",
-    "sector": "Utilities",
-    "sub_sector": "Electrical Utilities & IPPs"
+    "investing_symbol": "KMDA",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Textiles & Apparel"
   },
   {
     "investing_symbol": "ADVE",
@@ -485,14 +560,19 @@
     "sub_sector": "Electronic Equipment & Parts"
   },
   {
-    "investing_symbol": "JHHS",
-    "sector": "Industrials",
-    "sub_sector": "Diversified Trading & Distributing"
+    "investing_symbol": "KNMP",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Related Equipment and Services"
   },
   {
     "investing_symbol": "JHMC",
     "sector": "Technology",
     "sub_sector": "Semiconductors & Semiconductor Equipment"
+  },
+  {
+    "investing_symbol": "KOIN",
+    "sector": "Healthcare",
+    "sub_sector": "Pharmaceuticals"
   },
   {
     "investing_symbol": "JISH",
@@ -503,6 +583,11 @@
     "investing_symbol": "JKBM",
     "sector": "Industrials",
     "sub_sector": "Machinery Equipment & Components"
+  },
+  {
+    "investing_symbol": "KREK",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
   },
   {
     "investing_symbol": "CETH",
@@ -535,9 +620,9 @@
     "sub_sector": "Paper & Forest Products"
   },
   {
-    "investing_symbol": "KARY",
-    "sector": "Basic Materials",
-    "sub_sector": "Chemicals"
+    "investing_symbol": "KRIB",
+    "sector": "Healthcare",
+    "sub_sector": "Healthcare Equipment & Supplies"
   },
   {
     "investing_symbol": "JKGL",
@@ -550,9 +635,9 @@
     "sub_sector": "Machinery Equipment & Components"
   },
   {
-    "investing_symbol": "KELG",
-    "sector": "Industrials",
-    "sub_sector": "Construction & Engineering"
+    "investing_symbol": "KSMS",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
   },
   {
     "investing_symbol": "KENH",
@@ -565,7 +650,12 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "KESM",
+    "investing_symbol": "KWNF",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
+  },
+  {
+    "investing_symbol": "KYAC",
     "sector": "Technology",
     "sub_sector": "Semiconductors & Semiconductor Equipment"
   },
@@ -590,9 +680,9 @@
     "sub_sector": "Freight & Logistics Services"
   },
   {
-    "investing_symbol": "KHEE",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Tobacco"
+    "investing_symbol": "KYMH",
+    "sector": "Basic Materials",
+    "sub_sector": "Containers & Packaging"
   },
   {
     "investing_symbol": "KHIN",
@@ -605,9 +695,9 @@
     "sub_sector": "Machinery Equipment & Components"
   },
   {
-    "investing_symbol": "OVER",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Hotels & Entertainment Services"
+    "investing_symbol": "LAGE",
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
     "investing_symbol": "KIAL",
@@ -615,19 +705,19 @@
     "sub_sector": "Construction Materials"
   },
   {
-    "investing_symbol": "KICB",
-    "sector": "Industrials",
-    "sub_sector": "Construction & Engineering"
+    "investing_symbol": "LBSB",
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
-    "investing_symbol": "KIMH",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Homebuilding & Construction Supplies"
+    "investing_symbol": "LBSBq",
+    "sector": "Others",
+    "sub_sector": "Others"
   },
   {
-    "investing_symbol": "KIMI",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Specialty Retailers"
+    "investing_symbol": "LEAD",
+    "sector": "Basic Materials",
+    "sub_sector": "Metals & Mining"
   },
   {
     "investing_symbol": "EPIO",
@@ -640,9 +730,9 @@
     "sub_sector": "Food & Tobacco"
   },
   {
-    "investing_symbol": "KIMT",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Drug Retailing "
+    "investing_symbol": "LEFO",
+    "sector": "Basic Materials",
+    "sub_sector": "Metals & Mining"
   },
   {
     "investing_symbol": "KINE",
@@ -650,14 +740,14 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "KIPR",
-    "sector": "Real Estate",
-    "sub_sector": "Residential & Commercial REITs"
+    "symbol": "KIPR",
+    "sector": "Finance",
+    "sub_sector": "Real Estate Investment Trusts"
   },
   {
-    "investing_symbol": "KJTS",
-    "sector": "Industrials",
-    "sub_sector": "Professional & Commercial Services"
+    "investing_symbol": "LEON",
+    "sector": "Basic Materials",
+    "sub_sector": "Metals & Mining"
   },
   {
     "investing_symbol": "IRKA",
@@ -670,14 +760,14 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "KLCC",
-    "sector": "Real Estate",
-    "sub_sector": "Residential & Commercial REITs"
+    "symbol": "KLCC",
+    "sector": "Finance",
+    "sub_sector": "Real Estate Investment Trusts"
   },
   {
-    "investing_symbol": "KLKK",
-    "sector": "Basic Materials",
-    "sub_sector": "Chemicals"
+    "investing_symbol": "LGMS",
+    "sector": "Technology",
+    "sub_sector": "Software & IT Services"
   },
   {
     "investing_symbol": "DSSI",
@@ -690,14 +780,14 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "KMDA",
+    "investing_symbol": "LHTM",
     "sector": "Consumer Cyclicals",
-    "sub_sector": "Textiles & Apparel"
+    "sub_sector": "Household Goods"
   },
   {
-    "investing_symbol": "KNMP",
-    "sector": "Energy",
-    "sub_sector": "Oil & Gas Related Equipment and Services"
+    "investing_symbol": "LIMS",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Specialty Retailers"
   },
   {
     "investing_symbol": "CPWA",
@@ -718,11 +808,6 @@
     "investing_symbol": "KOBA",
     "sector": "Industrials",
     "sub_sector": "Machinery Equipment & Components"
-  },
-  {
-    "investing_symbol": "KOIN",
-    "sector": "Healthcare",
-    "sub_sector": "Pharmaceuticals"
   },
   {
     "investing_symbol": "EKSN",
@@ -775,9 +860,9 @@
     "sub_sector": "Machinery Equipment & Components"
   },
   {
-    "investing_symbol": "LTKM",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Tobacco"
+    "investing_symbol": "LLBM",
+    "sector": "Basic Materials",
+    "sub_sector": "Metals & Mining"
   },
   {
     "investing_symbol": "FITT",
@@ -805,9 +890,9 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "KREK",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Tobacco"
+    "investing_symbol": "LMHS",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Hotels & Entertainment Services"
   },
   {
     "investing_symbol": "HEIN",
@@ -820,9 +905,9 @@
     "sub_sector": "Banking Services"
   },
   {
-    "investing_symbol": "KRIB",
-    "sector": "Healthcare",
-    "sub_sector": "Healthcare Equipment & Supplies"
+    "investing_symbol": "LOTT",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals"
   },
   {
     "investing_symbol": "KRON",
@@ -835,7 +920,7 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "KSMS",
+    "investing_symbol": "LTKM",
     "sector": "Consumer Non-Cyclicals",
     "sub_sector": "Food & Tobacco"
   },
@@ -855,19 +940,19 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "KWNF",
+    "investing_symbol": "MAAS",
+    "sector": "Financials",
+    "sub_sector": "Insurance"
+  },
+  {
+    "investing_symbol": "MAGA",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Hotels & Entertainment Services"
+  },
+  {
+    "investing_symbol": "MAGH",
     "sector": "Consumer Non-Cyclicals",
     "sub_sector": "Food & Tobacco"
-  },
-  {
-    "investing_symbol": "KYAC",
-    "sector": "Technology",
-    "sub_sector": "Semiconductors & Semiconductor Equipment"
-  },
-  {
-    "investing_symbol": "KYMH",
-    "sector": "Basic Materials",
-    "sub_sector": "Containers & Packaging"
   },
   {
     "investing_symbol": "AJIN",
@@ -880,9 +965,9 @@
     "sub_sector": "Banking Services"
   },
   {
-    "investing_symbol": "LAGE",
-    "sector": "Others",
-    "sub_sector": "Others"
+    "investing_symbol": "MAHB",
+    "sector": "Industrials",
+    "sub_sector": "Transport Infrastructure"
   },
   {
     "investing_symbol": "BERJ",
@@ -910,9 +995,9 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "LBSB",
-    "sector": "Others",
-    "sub_sector": "Others"
+    "investing_symbol": "MALA",
+    "sector": "Utilities",
+    "sub_sector": "Electrical Utilities & IPPs"
   },
   {
     "investing_symbol": "GLOL",
@@ -925,14 +1010,14 @@
     "sub_sector": "Chemicals"
   },
   {
-    "investing_symbol": "LEAD",
-    "sector": "Basic Materials",
-    "sub_sector": "Metals & Mining"
+    "investing_symbol": "MATA",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
   },
   {
-    "investing_symbol": "LEBT",
+    "investing_symbol": "MATI",
     "sector": "Industrials",
-    "sub_sector": "Construction & Engineering"
+    "sub_sector": "Transport Infrastructure"
   },
   {
     "investing_symbol": "AINM",
@@ -945,9 +1030,9 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "LEFO",
-    "sector": "Basic Materials",
-    "sub_sector": "Metals & Mining"
+    "investing_symbol": "MAXI",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
   },
   {
     "investing_symbol": "KLRK",
@@ -960,9 +1045,9 @@
     "sub_sector": "Food & Tobacco"
   },
   {
-    "investing_symbol": "LEON",
-    "sector": "Basic Materials",
-    "sub_sector": "Metals & Mining"
+    "investing_symbol": "MAYB",
+    "sector": "Industrials",
+    "sub_sector": "Freight & Logistics Services"
   },
   {
     "investing_symbol": "ADVA",
@@ -975,9 +1060,9 @@
     "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "LGMS",
-    "sector": "Technology",
-    "sub_sector": "Software & IT Services"
+    "investing_symbol": "MAYU",
+    "sector": "Basic Materials",
+    "sub_sector": "Metals & Mining"
   },
   {
     "investing_symbol": "FIMA",
@@ -1015,9 +1100,9 @@
     "sub_sector": "Household Goods"
   },
   {
-    "investing_symbol": "LHTM",
+    "investing_symbol": "MBMR",
     "sector": "Consumer Cyclicals",
-    "sub_sector": "Household Goods"
+    "sub_sector": "Automobiles & Auto Parts"
   },
   {
     "investing_symbol": "DBMS",
@@ -1030,9 +1115,9 @@
     "sub_sector": "Food & Tobacco"
   },
   {
-    "investing_symbol": "LIMS",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Specialty Retailers"
+    "investing_symbol": "MCLN",
+    "sector": "Industrials",
+    "sub_sector": "Professional & Commercial Services"
   },
   {
     "investing_symbol": "LKLI",
@@ -1040,14 +1125,14 @@
     "sub_sector": "Healthcare Equipment & Supplies"
   },
   {
-    "investing_symbol": "LLBM",
-    "sector": "Basic Materials",
-    "sub_sector": "Metals & Mining"
+    "investing_symbol": "MEHB",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
   },
   {
-    "investing_symbol": "LMHS",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Hotels & Entertainment Services"
+    "investing_symbol": "MEIS",
+    "sector": "Industrials",
+    "sub_sector": "Construction & Engineering"
   },
   {
     "investing_symbol": "LHCK",
@@ -1060,9 +1145,9 @@
     "sub_sector": "Insurance"
   },
   {
-    "investing_symbol": "LOTT",
-    "sector": "Basic Materials",
-    "sub_sector": "Chemicals"
+    "investing_symbol": "MERC",
+    "sector": "Financials",
+    "sub_sector": "Investment Banking & Investment Services"
   },
   {
     "investing_symbol": "INSS",
@@ -1115,14 +1200,19 @@
     "sub_sector": "Metals & Mining"
   },
   {
-    "investing_symbol": "MAAS",
-    "sector": "Financials",
-    "sub_sector": "Insurance"
+    "investing_symbol": "MESB",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Specialty Retailers"
   },
   {
-    "investing_symbol": "MAGA",
+    "investing_symbol": "METB",
     "sector": "Consumer Cyclicals",
     "sub_sector": "Hotels & Entertainment Services"
+  },
+  {
+    "investing_symbol": "MFMS",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
   },
   {
     "investing_symbol": "MAGM",
@@ -1135,9 +1225,14 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "MAHB",
-    "sector": "Industrials",
-    "sub_sector": "Transport Infrastructure"
+    "investing_symbol": "MGRC",
+    "sector": "Healthcare",
+    "sub_sector": "Healthcare Providers & Services"
+  },
+  {
+    "investing_symbol": "MHBS",
+    "sector": "Consumer Non-Cyclicals",
+    "sub_sector": "Food & Tobacco"
   },
   {
     "investing_symbol": "GNCH",
@@ -1150,9 +1245,9 @@
     "sub_sector": "Others"
   },
   {
-    "investing_symbol": "MALA",
-    "sector": "Utilities",
-    "sub_sector": "Electrical Utilities & IPPs"
+    "investing_symbol": "MILU",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Household Goods"
   },
   {
     "investing_symbol": "MALY",
@@ -1163,100 +1258,5 @@
     "investing_symbol": "MANS",
     "sector": "Technology",
     "sub_sector": "Software & IT Services"
-  },
-  {
-    "investing_symbol": "HONG",
-    "sector": "Healthcare",
-    "sub_sector": "Healthcare Providers & Services"
-  },
-  {
-    "investing_symbol": "MAST",
-    "sector": "Industrials",
-    "sub_sector": "Machinery Equipment & Components"
-  },
-  {
-    "investing_symbol": "MATA",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Tobacco"
-  },
-  {
-    "investing_symbol": "CVIE",
-    "sector": "Others",
-    "sub_sector": "Others"
-  },
-  {
-    "investing_symbol": "DUTA",
-    "sector": "Others",
-    "sub_sector": "Others"
-  },
-  {
-    "investing_symbol": "MATE",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Textiles & Apparel"
-  },
-  {
-    "investing_symbol": "BATO",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Tobacco"
-  },
-  {
-    "investing_symbol": "HSON",
-    "sector": "Consumer Non-Cyclicals",
-    "sub_sector": "Food & Drug Retailing "
-  },
-  {
-    "investing_symbol": "MATI",
-    "sector": "Industrials",
-    "sub_sector": "Transport Infrastructure"
-  },
-  {
-    "investing_symbol": "BPOT",
-    "sector": "Industrials",
-    "sub_sector": "Transport Infrastructure"
-  },
-  {
-    "investing_symbol": "MATR",
-    "sector": "Others",
-    "sub_sector": "Others"
-  },
-  {
-    "investing_symbol": "MAXI",
-    "sector": "Industrials",
-    "sub_sector": "Construction & Engineering"
-  },
-  {
-    "investing_symbol": "MAXL",
-    "sector": "Basic Materials",
-    "sub_sector": "Paper & Forest Products"
-  },
-  {
-    "investing_symbol": "MAYB",
-    "sector": "Industrials",
-    "sub_sector": "Freight & Logistics Services"
-  },
-  {
-    "investing_symbol": "MAYU",
-    "sector": "Basic Materials",
-    "sub_sector": "Metals & Mining"
-  },
-  {
-    "investing_symbol": "IBRC",
-    "sector": "Others",
-    "sub_sector": "Others"
-  },
-  {
-    "investing_symbol": "MBBM",
-    "sector": "Financials",
-    "sub_sector": "Banking Services"
-  },
-  {
-    "investing_symbol": "MBMR",
-    "sector": "Consumer Cyclicals",
-    "sub_sector": "Automobiles & Auto Parts"
-  },
-  {
-    "investing_symbol": "MBSB",
-    "sector": "Financials",
-    "sub_sector": "Banking Services"
   }
 ]

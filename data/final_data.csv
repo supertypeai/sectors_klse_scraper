@@ -1,1011 +1,1011 @@
-investing_symbol,sector,sub_sector
-AASB,Consumer Non-Cyclicals,Food & Tobacco
-ABEL,Industrials,Construction & Engineering
-ABLE,Consumer Non-Cyclicals,Food & Tobacco
-ABMF,Consumer Cyclicals,Automobiles & Auto Parts
-ACME,Basic Materials,Chemicals
-ACOG,Industrials,Machinery Equipment & Components
-ADVA,Consumer Cyclicals,Hotels & Entertainment Services
-ADVE,Healthcare,Healthcare Equipment & Supplies
-ADVN,Industrials,Construction & Engineering
-AEML,Technology,Semiconductors & Semiconductor Equipment
-AEMU,Technology,Semiconductors & Semiconductor Equipment
-AEOM,Consumer Cyclicals,Diversified Retail
-AFCB,Industrials,Professional & Commercial Services
-AFHB,Consumer Non-Cyclicals,Food & Tobacco
-AFIN,Financials,Banking Services
-AGES,Industrials,Construction & Engineering
-AGMO,Industrials,Professional & Commercial Services
-AGXG,Industrials,Freight & Logistics Services
-AIMD,Consumer Cyclicals,Media & Publishing
-AIMF,Industrials,Machinery Equipment & Components
-AINM,Financials,Insurance
-AIRX,Industrials,Passenger Transportation Services
-AJIN,Consumer Non-Cyclicals,Food & Tobacco
-AJIY,Consumer Cyclicals,Homebuilding & Construction Supplies
-ALCO,Basic Materials,Metals & Mining
-ALDR,Technology,Software & IT Services
-ALLI,Financials,Banking Services
-ALMT,Energy,Oil & Gas Related Equipment and Services
-ALPH,Consumer Non-Cyclicals,Food & Tobacco
-ALQA,Real Estate,Residential & Commercial REITs
-ALSA,Others,Others
-AMEE,Industrials,Construction & Engineering
-AMER,Others,Others
-AMFL,Real Estate,Residential & Commercial REITs
-AMLE,Industrials,Machinery Equipment & Components
-AMMB,Financials,Banking Services
-AMRY,Real Estate,Residential & Commercial REITs
-AMTH,Technology,Others
-AMWA,Healthcare,Pharmaceuticals
-ANCM,Basic Materials,Chemicals
-ANCO,Industrials,Freight & Logistics Services
-ANCR,Financials,Banking Services
-ANEK,Industrials,Construction & Engineering
-ANNJ,Basic Materials,Metals & Mining
-ANNJq,Basic Materials,Metals & Mining
-ANNU,Basic Materials,Paper & Forest Products
-ANRE,Basic Materials,Chemicals
-APBS,Industrials,Construction & Engineering
-APER,Healthcare,Pharmaceuticals
-APES,Financials,Investment Banking & Investment Services
-APHB,Others,Others
-APMA,Consumer Cyclicals,Automobiles & Auto Parts
-APPA,Technology,Software & IT Services
-ARBB,Technology,Software & IT Services
-ARKA,Industrials,Freight & Logistics Services
-ARKS,Industrials,Construction & Engineering
-ARNK,Basic Materials,Metals & Mining
-ARTR,Technology,Others
-ARTW,Industrials,Professional & Commercial Services
-ASDN,Industrials,Freight & Logistics Services
-ASIA,Consumer Cyclicals,Textiles & Apparel
-ASPY,Basic Materials,Chemicals
-ASTA,Consumer Non-Cyclicals,Food & Tobacco
-ASTE,Financials,Holding Companies
-ASTR,Consumer Cyclicals,Media & Publishing
-ATAI,Basic Materials,Containers & Packaging
-ATLA,Industrials,Transport Infrastructure
-ATNO,Consumer Cyclicals,Homebuilding & Construction Supplies
-ATRL,Real Estate,Residential & Commercial REITs
-ATSM,Industrials,Machinery Equipment & Components
-AURE,Technology,Electronic Equipment & Parts
-AURH,Basic Materials,Paper & Forest Products
-AUTC,Technology,Software & IT Services
-AVAL,Others,Others
-AVIL,Consumer Cyclicals,Hotels & Entertainment Services
-AWAN,Technology,Software & IT Services
-AWCF,Industrials,Professional & Commercial Services
-AXIA,Technology,Others
-AXSR,Real Estate,Residential & Commercial REITs
-AXTE,Others,Others
-AYER,Others,Others
-AYSV,Industrials,Diversified Trading & Distributing
-AZRB,Industrials,Construction & Engineering
-BABA,Consumer Cyclicals,Household Goods
-BAHV,Consumer Non-Cyclicals,Food & Tobacco
-BARA,Energy,Oil & Gas Related Equipment and Services
-BATO,Consumer Non-Cyclicals,Food & Tobacco
-BCBB,Others,Others
-BCMA,Industrials,Machinery Equipment & Components
-BDBS,Industrials,Construction & Engineering
-BECH,Industrials,Professional & Commercial Services
-BENL,Industrials,Construction & Engineering
-BERA,Consumer Cyclicals,Specialty Retailers
-BERJ,Others,Others
-BERM,Others,Others
-BESH,Consumer Cyclicals,Specialty Retailers
-BETA,Consumer Cyclicals,Specialty Retailers
-BGRO,Consumer Non-Cyclicals,Others
-BHIB,Industrials,Machinery Equipment & Components
-BIGI,Basic Materials,Construction Materials
-BIMB,Financials,Banking Services
-BINC,Technology,Others
-BINS,Industrials,Construction & Engineering
-BIOA,Healthcare,Pharmaceuticals
-BJFO,Consumer Cyclicals,Hotels & Entertainment Services
-BKCB,Industrials,Construction & Engineering
-BLAD,Consumer Cyclicals,Hotels & Entertainment Services
-BLDN,Consumer Non-Cyclicals,Food & Tobacco
-BMGR,Industrials,Machinery Equipment & Components
-BMYS,Financials,Investment Banking & Investment Services
-BONI,Consumer Cyclicals,Specialty Retailers
-BPAC,Basic Materials,Containers & Packaging
-BPAK,Basic Materials,Containers & Packaging
-BPOT,Industrials,Transport Infrastructure
-BPPL,Basic Materials,Containers & Packaging
-BPUR,Industrials,Construction & Engineering
-BRNL,Consumer Cyclicals,Hotels & Entertainment Services
-BSLC,Basic Materials,Metals & Mining
-BTKW,Basic Materials,Chemicals
-BTMR,Basic Materials,Paper & Forest Products
-BUAB,Energy,Oil & Gas Related Equipment and Services
-CABC,Consumer Non-Cyclicals,Food & Tobacco
-CABN,Industrials,Construction & Engineering
-CAMA,Real Estate,Residential & Commercial REITs
-CAPE,Technology,Electronic Equipment & Parts
-CAPI,Industrials,Passenger Transportation Services
-CARE,Healthcare,Healthcare Equipment & Supplies
-CARL,Consumer Cyclicals,Specialty Retailers
-CARM,Energy,Oil & Gas Related Equipment and Services
-CARZ,Consumer Non-Cyclicals,Food & Tobacco
-CATH,Consumer Cyclicals,Media & Publishing
-CBIP,Industrials,Machinery Equipment & Components
-CBMS,Consumer Non-Cyclicals,Beverages
-CCIN,Consumer Non-Cyclicals,Personal &Household Products & Services
-CCKH,Consumer Non-Cyclicals,Food & Drug Retailing 
-CEKD,Industrials,Machinery Equipment & Components
-CELC,Technology,Others
-CENG,Healthcare,Healthcare Providers & Services
-CENT,Industrials,Construction & Engineering
-CETH,Consumer Cyclicals,Textiles & Apparel
-CFMS,Industrials,Professional & Commercial Services
-CHHB,Healthcare,Healthcare Providers & Services
-CHIN,Consumer Cyclicals,Automobiles & Auto Parts
-CHIU,Consumer Cyclicals,Homebuilding & Construction Supplies
-CHOO,Basic Materials,Metals & Mining
-CHRB,Financials,Holding Companies
-CIHB,Consumer Non-Cyclicals,Food & Tobacco
-CIMB,Financials,Banking Services
-CITA,Industrials,Construction & Engineering
-CITR,Consumer Non-Cyclicals,Food & Tobacco
-CJCE,Industrials,Freight & Logistics Services
-CLAS,Consumer Cyclicals,Textiles & Apparel
-CLOD,Technology,Software & IT Services
-CLOU,Technology,Software & IT Services
-CMEG,Industrials,Machinery Equipment & Components
-CMSM,Basic Materials,Construction Materials
-CNAC,Industrials,Machinery Equipment & Components
-CNER,Industrials,Machinery Equipment & Components
-CNON,Basic Materials,Containers & Packaging
-CNSH,Technology,Others
-COMF,Healthcare,Healthcare Equipment & Supplies
-CONC,Basic Materials,Construction Materials
-CORA,Basic Materials,Metals & Mining
-COSO,Basic Materials,Metals & Mining
-COWH,Consumer Non-Cyclicals,Beverages
-CPGT,Technology,Computers Phones & Household Electronics
-CPWA,Consumer Non-Cyclicals,Food & Tobacco
-CREC,Others,Others
-CREH,Industrials,Construction & Engineering
-CRIT,Industrials,Construction & Engineering
-CRSM,Consumer Non-Cyclicals,Food & Tobacco
-CSTH,Basic Materials,Metals & Mining
-CTAL,Industrials,Machinery Equipment & Components
-CTOS,Industrials,Professional & Commercial Services
-CTPB,Consumer Non-Cyclicals,Food & Tobacco
-CUSC,Technology,Software & IT Services
-CVIE,Others,Others
-CWGH,Industrials,Professional & Commercial Services
-CWHB,Industrials,Machinery Equipment & Components
-CYBE,Others,Others
-CYLC,Basic Materials,Containers & Packaging
-CYPR,Utilities,Electrical Utilities & IPPs
-DATA,Technology,Software & IT Services
-DAYT,Technology,Software & IT Services
-DBMS,Consumer Non-Cyclicals,Food & Tobacco
-DCHE,Consumer Non-Cyclicals,Personal &Household Products & Services
-DEHB,Energy,Oil & Gas Related Equipment and Services
-DELM,Industrials,Diversified Trading & Distributing
-DEST,Industrials,Professional & Commercial Services
-DFCI,Basic Materials,Construction Materials
-DGBA,Technology,Software & IT Services
-DIAL,Energy,Oil & Gas Related Equipment and Services
-DIGS,Technology,Others
-DIVF,Technology,Software & IT Services
-DKLS,Industrials,Construction & Engineering
-DLEU,Energy,Oil & Gas Related Equipment and Services
-DNCE,Basic Materials,Containers & Packaging
-DNCO,Industrials,Machinery Equipment & Components
-DNEX,Technology,Software & IT Services
-DOLP,Industrials,Machinery Equipment & Components
-DOMN,Basic Materials,Paper & Forest Products
-DOVT,Technology,Semiconductors & Semiconductor Equipment
-DPIH,Basic Materials,Chemicals
-DPSS,Industrials,Construction & Engineering
-DRBM,Consumer Cyclicals,Automobiles & Auto Parts
-DSON,Technology,Software & IT Services
-DSRT,Consumer Non-Cyclicals,Food & Tobacco
-DSSI,Basic Materials,Containers & Packaging
-DUFU,Industrials,Machinery Equipment & Components
-DUOP,Healthcare,Pharmaceuticals
-DUTA,Others,Others
-DXNO,Consumer Cyclicals,Specialty Retailers
-DYNF,Technology,Software & IT Services
-EAHL,Technology,Software & IT Services
-EATE,Industrials,Freight & Logistics Services
-ECAI,Technology,Semiconductors & Semiconductor Equipment
-ECES,Industrials,Professional & Commercial Services
-ECMI,Consumer Cyclicals,Hotels & Entertainment Services
-ECOB,Industrials,Construction & Engineering
-ECOD,Others,Others
-ECOF,Others,Others
-ECOH,Industrials,Construction & Engineering
-ECOM,Consumer Cyclicals,Household Goods
-ECOR,Consumer Cyclicals,Homebuilding & Construction Supplies
-ECOS,Industrials,Construction & Engineering
-ECOW,Others,Others
-EDEL,Technology,Semiconductors & Semiconductor Equipment
-EDEN,Utilities,Electrical Utilities & IPPs
-EDSB,Technology,Software & IT Services
-EDUS,Others,Others
-EGCM,Technology,Electronic Equipment & Parts
-EITA,Industrials,Machinery Equipment & Components
-EKOV,Industrials,Construction & Engineering
-EKSN,Basic Materials,Paper & Forest Products
-ELKD,Financials,Banking Services
-ELSR,Technology,Computers Phones & Household Electronics
-EMIC,Industrials,Professional & Commercial Services
-ENCR,Industrials,Construction & Engineering
-ENES,Consumer Non-Cyclicals,Food & Tobacco
-ENGH,Consumer Non-Cyclicals,Personal &Household Products & Services
-ENOB,Others,Others
-ENRA,Energy,Oil & Gas Related Equipment and Services
-EONM,Basic Materials,Metals & Mining
-EPIO,Industrials,Construction & Engineering
-EPMB,Consumer Cyclicals,Automobiles & Auto Parts
-EQUI,Financials,Investment Banking & Investment Services
-ERHB,Industrials,Professional & Commercial Services
-ESAN,Consumer Cyclicals,Household Goods
-ESCB,Industrials,Construction & Engineering
-ESCM,Consumer Cyclicals,Textiles & Apparel
-ESTH,Consumer Cyclicals,Specialty Retailers
-ETEX,Basic Materials,Metals & Mining
-EUPE,Others,Others
-EVDB,Technology,Software & IT Services
-EVEG,Financials,Banking Services
-EVES,Consumer Cyclicals,Automobiles & Auto Parts
-EVGN,Basic Materials,Paper & Forest Products
-EWEI,Industrials,Machinery Equipment & Components
-EXFM,Technology,Software & IT Services
-FACN,Consumer Cyclicals,Household Goods
-FAJA,Industrials,Construction & Engineering
-FARM,Consumer Non-Cyclicals,Food & Tobacco
-FAST,Energy,Oil & Gas
-FCDY,Consumer Cyclicals,Hotels & Entertainment Services
-FCWH,Consumer Non-Cyclicals,Personal &Household Products & Services
-FEHS,Consumer Non-Cyclicals,Food & Tobacco
-FGVH,Consumer Non-Cyclicals,Food & Tobacco
-FIAM,Consumer Cyclicals,Household Goods
-FIBN,Industrials,Machinery Equipment & Components
-FIHB,Consumer Cyclicals,Specialty Retailers
-FIMA,Consumer Non-Cyclicals,Food & Tobacco
-FINT,Consumer Cyclicals,Hotels & Entertainment Services
-FITT,Consumer Non-Cyclicals,Food & Tobacco
-FLEX,Industrials,Machinery Equipment & Components
-FLIM,Others,Others
-FMHB,Industrials,Freight & Logistics Services
-FOLU,Basic Materials,Paper & Forest Products
-FOPT,Consumer Cyclicals,Specialty Retailers
-FOUN,Technology,Electronic Equipment & Parts
-FPIB,Technology,Computers Phones & Household Electronics
-FRAS,Consumer Non-Cyclicals,Beverages
-FRKN,Industrials,Professional & Commercial Services
-FUJI,Technology,Software & IT Services
-FVCO,Industrials,Machinery Equipment & Components
-GADA,Industrials,Construction & Engineering
-GAGA,Others,Others
-GAMU,Industrials,Construction & Engineering
-GAQR,Industrials,Construction & Engineering
-GASM,Utilities,Natural Gas Utilities
-GBAY,Basic Materials,Containers & Packaging
-GCAP,Industrials,Passenger Transportation Services
-GDBH,Industrials,Construction & Engineering
-GDEX,Industrials,Freight & Logistics Services
-GENM,Consumer Cyclicals,Hotels & Entertainment Services
-GENP,Consumer Non-Cyclicals,Food & Tobacco
-GENT,Consumer Cyclicals,Hotels & Entertainment Services
-GESH,Basic Materials,Chemicals
-GFMS,Consumer Non-Cyclicals,Others
-GHLS,Industrials,Professional & Commercial Services
-GIIB,Consumer Cyclicals,Automobiles & Auto Parts
-GKMS,Industrials,Machinery Equipment & Components
-GLOA,Technology,Software & IT Services
-GLOL,Others,Others
-GLOM,Others,Others
-GLOS,Industrials,Construction & Engineering
-GLOT,Industrials,Machinery Equipment & Components
-GMUT,Others,Others
-GNCH,Consumer Non-Cyclicals,Food & Tobacco
-GNIC,Technology,Semiconductors & Semiconductor Equipment
-GOCE,Consumer Non-Cyclicals,Food & Tobacco
-GOLD,Consumer Non-Cyclicals,Food & Tobacco
-GOPK,Consumer Non-Cyclicals,Food & Tobacco
-GPPR,Utilities,Electrical Utilities & IPPs
-GRAN,Consumer Cyclicals,Hotels & Entertainment Services
-GREA,Industrials,Machinery Equipment & Components
-GRNP,Technology,Communications & Networking
-GROS,Basic Materials,Paper & Forest Products
-GRYB,Basic Materials,Paper & Forest Products
-GTCY,Industrials,Machinery Equipment & Components
-GUHB,Technology,Semiconductors & Semiconductor Equipment
-GUOL,Others,Others
-HAIL,Industrials,Construction & Engineering
-HAPP,Consumer Non-Cyclicals,Food & Tobacco
-HAPS,Consumer Non-Cyclicals,Others
-HARE,Technology,Software & IT Services
-HARR,Industrials,Freight & Logistics Services
-HBGL,Consumer Non-Cyclicals,Food & Tobacco
-HCKC,Others,Others
-HDEB,Energy,Oil & Gas Related Equipment and Services
-HEGR,Utilities,Electrical Utilities & IPPs
-HEIN,Consumer Non-Cyclicals,Beverages
-HEIT,Technology,Software & IT Services
-HEKR,Real Estate,Residential & Commercial REITs
-HENY,Energy,Oil & Gas
-HEVE,Basic Materials,Paper & Forest Products
-HEXA,Basic Materials,Chemicals
-HEXC,Technology,Communications & Networking
-HEXE,Basic Materials,Construction Materials
-HEXI,Basic Materials,Paper & Forest Products
-HEXR,Healthcare,Healthcare Equipment & Supplies
-HEXT,Basic Materials,Chemicals
-HHCS,Industrials,Construction & Engineering
-HHRG,Consumer Cyclicals,Textiles & Apparel
-HIAP,Industrials,Professional & Commercial Services
-HIBI,Energy,Oil & Gas
-HILI,Basic Materials,Chemicals
-HLBB,Financials,Banking Services
-HLCB,Financials,Banking Services
-HLEN,Consumer Non-Cyclicals,Food & Tobacco
-HLGC,Financials,Investment Banking & Investment Services
-HLIB,Consumer Non-Cyclicals,Others
-HLTG,Industrials,Machinery Equipment & Components
-HOME,Consumer Cyclicals,Household Goods
-HONG,Healthcare,Healthcare Providers & Services
-HOWA,Industrials,Machinery Equipment & Components
-HPMT,Industrials,Machinery Equipment & Components
-HPPH,Basic Materials,Containers & Packaging
-HSIB,Consumer Non-Cyclicals,Food & Tobacco
-HSON,Consumer Non-Cyclicals,Food & Drug Retailing 
-HSSE,Industrials,Construction & Engineering
-HTHB,Healthcare,Healthcare Equipment & Supplies
-HTVE,Basic Materials,Metals & Mining
-HUAY,Others,Others
-HUBE,Industrials,Freight & Logistics Services
-HUMC,Basic Materials,Construction Materials
-HWAT,Consumer Non-Cyclicals,Food & Tobacco
-HXZS,Basic Materials,Chemicals
-IBHD,Others,Others
-IBRC,Others,Others
-ICOI,Healthcare,Healthcare Equipment & Supplies
-ICON,Energy,Oil & Gas Related Equipment and Services
-ICTZ,Consumer Non-Cyclicals,Personal &Household Products & Services
-IDBT,Technology,Software & IT Services
-IDEA,Others,Others
-IFCA,Technology,Software & IT Services
-IGBB,Others,Others
-IGBC,Others,Others
-IGRE,Real Estate,Residential & Commercial REITs
-IHHH,Healthcare,Healthcare Providers & Services
-IJMS,Industrials,Construction & Engineering
-IKEN,Consumer Cyclicals,Hotels & Entertainment Services
-ILBG,Utilities,Electrical Utilities & IPPs
-IMSP,Basic Materials,Chemicals
-INAR,Technology,Semiconductors & Semiconductor Equipment
-INDU,Technology,Electronic Equipment & Parts
-INFM,Technology,Software & IT Services
-INFO,Technology,Software & IT Services
-INFR,Industrials,Construction & Engineering
-INGE,Others,Others
-INNA,Consumer Cyclicals,Specialty Retailers
-INNO,Consumer Non-Cyclicals,Food & Tobacco
-INNY,Consumer Cyclicals,Media & Publishing
-INSS,Financials,Investment Banking & Investment Services
-INTA,Consumer Cyclicals,Homebuilding & Construction Supplies
-IOIB,Consumer Non-Cyclicals,Food & Tobacco
-IOIP,Others,Others
-IQGH,Technology,Electronic Equipment & Parts
-IQZA,Basic Materials,Containers & Packaging
-IRIB,Technology,Software & IT Services
-IRKA,Industrials,Construction & Engineering
-ITMA,Industrials,Professional & Commercial Services
-IVRY,Others,Others
-IWCI,Others,Others
-JADI,Technology,Office Equipment
-JAGB,Industrials,Professional & Commercial Services
-JAKS,Industrials,Construction & Engineering
-JATI,Industrials,Construction & Engineering
-JAYC,Consumer Cyclicals,Household Goods
-JCBN,Industrials,Professional & Commercial Services
-JCYI,Technology,Computers Phones & Household Electronics
-JENT,Utilities,Electrical Utilities & IPPs
-JETS,Basic Materials,Chemicals
-JFTB,Technology,Electronic Equipment & Parts
-JHHS,Industrials,Diversified Trading & Distributing
-JHMC,Technology,Semiconductors & Semiconductor Equipment
-JIAN,Others,Others
-JISH,Basic Materials,Containers & Packaging
-JKBM,Industrials,Machinery Equipment & Components
-JKGL,Others,Others
-JOEH,Consumer Cyclicals,Automobiles & Auto Parts
-JTIA,Basic Materials,Paper & Forest Products
-KANG,Basic Materials,Paper & Forest Products
-KARE,Consumer Non-Cyclicals,Personal &Household Products & Services
-KARY,Basic Materials,Chemicals
-KCDS,Others,Others
-KEHG,Industrials,Machinery Equipment & Components
-KELG,Industrials,Construction & Engineering
-KENH,Others,Others
-KERA,Others,Others
-KESM,Technology,Semiconductors & Semiconductor Equipment
-KEYF,Industrials,Freight & Logistics Services
-KFIM,Industrials,Professional & Commercial Services
-KGRP,Consumer Non-Cyclicals,Others
-KGWG,Industrials,Freight & Logistics Services
-KHEE,Consumer Non-Cyclicals,Food & Tobacco
-KHIN,Industrials,Machinery Equipment & Components
-KHLH,Industrials,Machinery Equipment & Components
-KIAL,Basic Materials,Construction Materials
-KICB,Industrials,Construction & Engineering
-KIMH,Consumer Cyclicals,Homebuilding & Construction Supplies
-KIMI,Consumer Cyclicals,Specialty Retailers
-KIML,Consumer Non-Cyclicals,Food & Tobacco
-KIMT,Consumer Non-Cyclicals,Food & Drug Retailing 
-KINE,Industrials,Construction & Engineering
-KIPR,Real Estate,Residential & Commercial REITs
-KJTS,Industrials,Professional & Commercial Services
-KKBE,Industrials,Construction & Engineering
-KLCC,Real Estate,Residential & Commercial REITs
-KLKK,Basic Materials,Chemicals
-KLRK,Consumer Non-Cyclicals,Food & Tobacco
-KMDA,Consumer Cyclicals,Textiles & Apparel
-KNMP,Energy,Oil & Gas Related Equipment and Services
-KNNK,Financials,Investment Banking & Investment Services
-KNUS,Industrials,Construction & Engineering
-KOBA,Industrials,Machinery Equipment & Components
-KOIN,Healthcare,Pharmaceuticals
-KOMK,Industrials,Professional & Commercial Services
-KONE,Technology,Electronic Equipment & Parts
-KPJH,Healthcare,Healthcare Providers & Services
-KPSB,Industrials,Machinery Equipment & Components
-KPSC,Basic Materials,Construction Materials
-KREJ,Industrials,Construction & Engineering
-KREK,Consumer Non-Cyclicals,Food & Tobacco
-KRIB,Healthcare,Healthcare Equipment & Supplies
-KRON,Technology,Software & IT Services
-KSLH,Others,Others
-KSMS,Consumer Non-Cyclicals,Food & Tobacco
-KSSC,Basic Materials,Metals & Mining
-KUBM,Energy,Oil & Gas
-KUMP,Others,Others
-KWNF,Consumer Non-Cyclicals,Food & Tobacco
-KYAC,Technology,Semiconductors & Semiconductor Equipment
-KYMH,Basic Materials,Containers & Packaging
-LAGE,Others,Others
-LAMB,Consumer Cyclicals,Textiles & Apparel
-LAND,Others,Others
-LAYH,Consumer Non-Cyclicals,Food & Tobacco
-LBAL,Basic Materials,Metals & Mining
-LBIP,Others,Others
-LBSB,Others,Others
-LBSBq,Others,Others
-LCBH,Basic Materials,Chemicals
-LEAD,Basic Materials,Metals & Mining
-LEBT,Industrials,Construction & Engineering
-LEFO,Basic Materials,Metals & Mining
-LEOG,Consumer Non-Cyclicals,Food & Tobacco
-LEON,Basic Materials,Metals & Mining
-LFEC,Industrials,Construction & Engineering
-LGMS,Technology,Software & IT Services
-LHCK,Industrials,Construction & Engineering
-LHEN,Consumer Cyclicals,Household Goods
-LHTM,Consumer Cyclicals,Household Goods
-LIMS,Consumer Cyclicals,Specialty Retailers
-LIOP,Consumer Cyclicals,Homebuilding & Construction Supplies
-LKLI,Healthcare,Healthcare Equipment & Supplies
-LLBM,Basic Materials,Metals & Mining
-LMHS,Consumer Cyclicals,Hotels & Entertainment Services
-LOND,Financials,Insurance
-LOTT,Basic Materials,Chemicals
-LOTU,Consumer Non-Cyclicals,Food & Tobacco
-LPGL,Basic Materials,Containers & Packaging
-LTER,Basic Materials,Chemicals
-LTKM,Consumer Non-Cyclicals,Food & Tobacco
-LYCH,Healthcare,Healthcare Providers & Services
-LYSA,Basic Materials,Metals & Mining
-MAAS,Financials,Insurance
-MAEQ,Consumer Cyclicals,Household Goods
-MAGA,Consumer Cyclicals,Hotels & Entertainment Services
-MAGH,Consumer Non-Cyclicals,Food & Tobacco
-MAGM,Consumer Cyclicals,Hotels & Entertainment Services
-MAGN,Others,Others
-MAHB,Industrials,Transport Infrastructure
-MAHS,Others,Others
-MALA,Utilities,Electrical Utilities & IPPs
-MALY,Basic Materials,Construction Materials
-MANS,Technology,Software & IT Services
-MARI,Industrials,Transport Infrastructure
-MAST,Industrials,Machinery Equipment & Components
-MATA,Consumer Non-Cyclicals,Food & Tobacco
-MATE,Consumer Cyclicals,Textiles & Apparel
-MATI,Industrials,Transport Infrastructure
-MATR,Others,Others
-MAXI,Industrials,Construction & Engineering
-MAXL,Basic Materials,Paper & Forest Products
-MAYB,Industrials,Freight & Logistics Services
-MAYU,Basic Materials,Metals & Mining
-MBBM,Financials,Banking Services
-MBMR,Consumer Cyclicals,Automobiles & Auto Parts
-MBSB,Financials,Banking Services
-MCEI,Consumer Cyclicals,Automobiles & Auto Parts
-MCLN,Industrials,Professional & Commercial Services
-MCOM,Consumer Cyclicals,Media & Publishing
-MCRK,Technology,Software & IT Services
-MDCH,Others,Others
-MEGA,Energy,Renewable Energy
-MEHB,Industrials,Construction & Engineering
-MEIS,Industrials,Construction & Engineering
-MENT,Basic Materials,Paper & Forest Products
-MERC,Financials,Investment Banking & Investment Services
-MERI,Others,Others
-MESB,Consumer Cyclicals,Specialty Retailers
-MEST,Consumer Cyclicals,Homebuilding & Construction Supplies
-METB,Consumer Cyclicals,Hotels & Entertainment Services
-METO,Healthcare,Healthcare Providers & Services
-METR,Others,Others
-MFMS,Consumer Non-Cyclicals,Food & Tobacco
-MGBB,Industrials,Construction & Engineering
-MGRC,Healthcare,Healthcare Providers & Services
-MHBS,Consumer Non-Cyclicals,Food & Tobacco
-MHCP,Consumer Non-Cyclicals,Food & Tobacco
-MHEB,Energy,Oil & Gas Related Equipment and Services
-MIEC,Basic Materials,Paper & Forest Products
-MIKB,Industrials,Machinery Equipment & Components
-MILU,Consumer Cyclicals,Household Goods
-MINO,Basic Materials,Metals & Mining
-MISC,Industrials,Transport Infrastructure
-MITC,Others,Others
-MITE,Technology,Semiconductors & Semiconductor Equipment
-MITR,Industrials,Construction & Engineering
-MJPR,Others,Others
-MJYA,Industrials,Construction & Engineering
-MKLH,Others,Others
-MLBS,Technology,Software & IT Services
-MLTO,Others,Others
-MMAG,Technology,Software & IT Services
-MMMG,Consumer Cyclicals,Media & Publishing
-MMSI,Basic Materials,Metals & Mining
-MMST,Industrials,Machinery Equipment & Components
-MNCS,Others,Others
-MNCW,Technology,Software & IT Services
-MNGA,Technology,Software & IT Services
-MNHL,Industrials,Construction & Engineering
-MNHO,Basic Materials,Paper & Forest Products
-MNLF,Financials,Insurance
-MNRB,Financials,Insurance
-MNTH,Basic Materials,Construction Materials
-MOBI,Consumer Cyclicals,Household Goods
-MPHB,Consumer Cyclicals,Hotels & Entertainment Services
-MPIM,Technology,Semiconductors & Semiconductor Equipment
-MPIR,Consumer Cyclicals,Household Goods
-MPRM,Consumer Cyclicals,Media & Publishing
-MQTE,Industrials,Machinery Equipment & Components
-MRDI,Consumer Cyclicals,Specialty Retailers
-MRHB,Consumer Cyclicals,Textiles & Apparel
-MROD,Industrials,Machinery Equipment & Components
-MSCB,Basic Materials,Metals & Mining
-MSMH,Consumer Non-Cyclicals,Food & Tobacco
-MSTG,Consumer Cyclicals,Hotels & Entertainment Services
-MSTM,Basic Materials,Metals & Mining
-MSTP,Basic Materials,Containers & Packaging
-MSWK,Basic Materials,Metals & Mining
-MTAG,Industrials,Professional & Commercial Services
-MTNC,Industrials,Professional & Commercial Services
-MTOU,Technology,Software & IT Services
-MUBL,Industrials,Machinery Equipment & Components
-MUDA,Basic Materials,Containers & Packaging
-MUHB,Others,Others
-MUHI,Industrials,Construction & Engineering
-MUIB,Consumer Cyclicals,Hotels & Entertainment Services
-MUIP,Others,Others
-MXSC,Technology,Others
-MYCS,Basic Materials,Metals & Mining
-MYEG,Technology,Software & IT Services
-MYMB,Consumer Non-Cyclicals,Food & Tobacco
-MYNE,Consumer Non-Cyclicals,Food & Drug Retailing 
-MYRS,Industrials,Construction & Engineering
-MYTE,Industrials,Machinery Equipment & Components
-NATI,Technology,Electronic Equipment & Parts
-NCHB,Industrials,Construction & Engineering
-NCTA,Others,Others
-NESM,Consumer Non-Cyclicals,Food & Tobacco
-NEST,Others,Others
-NETX,Technology,Software & IT Services
-NEXG,Technology,Software & IT Services
-NEXT,Industrials,Professional & Commercial Services
-NHFH,Consumer Cyclicals,Automobiles & Auto Parts
-NHSN,Consumer Cyclicals,Household Goods
-NICH,Consumer Cyclicals,Textiles & Apparel
-NMBS,Financials,Holding Companies
-NNCB,Technology,Software & IT Services
-NOVS,Technology,Software & IT Services
-NOVW,Consumer Non-Cyclicals,Food & Tobacco
-NPCR,Consumer Non-Cyclicals,Food & Tobacco
-NSOS,Consumer Non-Cyclicals,Food & Tobacco
-NTPM,Consumer Non-Cyclicals,Personal &Household Products & Services
-NVTE,Technology,Computers Phones & Household Electronics
-OCBB,Consumer Non-Cyclicals,Food & Tobacco
-OCEA,Consumer Cyclicals,Textiles & Apparel
-OCEN,Energy,Oil & Gas Related Equipment and Services
-OCKG,Technology,Others
-OCRG,Others,Others
-OFIH,Consumer Non-Cyclicals,Food & Tobacco
-OINT,Others,Others
-OKAC,Basic Materials,Construction Materials
-OLYM,Consumer Cyclicals,Hotels & Entertainment Services
-OMES,Technology,Software & IT Services
-OMHO,Others,Others
-ONEG,Healthcare,Healthcare Equipment & Supplies
-ONET,Technology,Software & IT Services
-ONLY,Consumer Cyclicals,Hotels & Entertainment Services
-OPPS,Technology,Others
-OPTI,Healthcare,Healthcare Providers & Services
-OPYS,Technology,Software & IT Services
-ORGA,Consumer Non-Cyclicals,Food & Tobacco
-ORPA,Basic Materials,Containers & Packaging
-OSKH,Others,Others
-OSKV,Financials,Investment Banking & Investment Services
-OTLS,Consumer Cyclicals,Specialty Retailers
-OVER,Consumer Cyclicals,Hotels & Entertainment Services
-PACO,Financials,Insurance
-PAND,Technology,Software & IT Services
-PANS,Industrials,Diversified Trading & Distributing
-PAOS,Consumer Non-Cyclicals,Personal &Household Products & Services
-PAPP,Financials,Banking Services
-PARA,Consumer Cyclicals,Homebuilding & Construction Supplies
-PARB,Basic Materials,Metals & Mining
-PARL,Consumer Cyclicals,Hotels & Entertainment Services
-PARW,Others,Others
-PASU,Industrials,Construction & Engineering
-PBAH,Utilities,Water Utilities
-PCCS,Consumer Cyclicals,Textiles & Apparel
-PCGB,Basic Materials,Chemicals
-PDEC,Others,Others
-PDNI,Consumer Cyclicals,Specialty Retailers
-PDZH,Industrials,Freight & Logistics Services
-PECC,Consumer Cyclicals,Automobiles & Auto Parts
-PEGA,Consumer Cyclicals,Household Goods
-PEIN,Industrials,Construction & Engineering
-PEKA,Utilities,Electrical Utilities & IPPs
-PELK,Industrials,Professional & Commercial Services
-PENS,Consumer Cyclicals,Household Goods
-PEPT,Consumer Non-Cyclicals,Food & Tobacco
-PERA,Industrials,Transport Infrastructure
-PERM,Technology,Others
-PERT,Industrials,Passenger Transportation Services
-PESO,Industrials,Construction & Engineering
-PETR,Energy,Oil & Gas
-PGAS,Utilities,Natural Gas Utilities
-PGFC,Basic Materials,Construction Materials
-PGKN,Consumer Cyclicals,Hotels & Entertainment Services
-PGON,Consumer Cyclicals,Household Goods
-PGSV,Industrials,Professional & Commercial Services
-PHMA,Healthcare,Pharmaceuticals
-PHUA,Consumer Cyclicals,Household Goods
-PIEN,Industrials,Machinery Equipment & Components
-PIMP,Financials,Holding Companies
-PINE,Technology,Others
-PINT,Industrials,Construction & Engineering
-PIPB,Consumer Non-Cyclicals,Food & Tobacco
-PJSB,Industrials,Construction & Engineering
-PLBE,Industrials,Construction & Engineering
-PLET,Others,Others
-PLHB,Consumer Non-Cyclicals,Food & Tobacco
-PLSB,Industrials,Construction & Engineering
-PLYT,Industrials,Construction & Engineering
-PMAS,Industrials,Machinery Equipment & Components
-PMBT,Basic Materials,Metals & Mining
-PMCS,Consumer Non-Cyclicals,Food & Tobacco
-PMET,Basic Materials,Metals & Mining
-PMJU,Consumer Cyclicals,Automobiles & Auto Parts
-PMMY,Consumer Cyclicals,Household Goods
-PNEB,Technology,Semiconductors & Semiconductor Equipment
-PNHB,Industrials,Professional & Commercial Services
-PNTE,Basic Materials,Metals & Mining
-POHK,Consumer Cyclicals,Textiles & Apparel
-POLD,Industrials,Professional & Commercial Services
-POWE,Consumer Non-Cyclicals,Beverages
-POWR,Industrials,Machinery Equipment & Components
-PPHB,Basic Materials,Containers & Packaging
-PREI,Real Estate,Residential & Commercial REITs
-PRGH,Consumer Cyclicals,Textiles & Apparel
-PRKN,Consumer Cyclicals,Diversified Retail
-PRMS,Others,Others
-PROE,Industrials,Construction & Engineering
-PROL,Industrials,Construction & Engineering
-PRTB,Technology,Software & IT Services
-PRTO,Industrials,Construction & Engineering
-PSHL,Industrials,Freight & Logistics Services
-PSTM,Basic Materials,Containers & Packaging
-PTAR,Basic Materials,Metals & Mining
-PTMR,Energy,Oil & Gas
-PTRD,Energy,Oil & Gas Related Equipment and Services
-PTRE,Industrials,Machinery Equipment & Components
-PTRS,Consumer Non-Cyclicals,Food & Tobacco
-PTTY,Industrials,Construction & Engineering
-PUBM,Financials,Banking Services
-PUCB,Technology,Software & IT Services
-PWFC,Consumer Non-Cyclicals,Food & Tobacco
-QCHB,Others,Others
-QESG,Industrials,Machinery Equipment & Components
-QRES,Consumer Non-Cyclicals,Food & Tobacco
-RADI,Consumer Cyclicals,Specialty Retailers
-RADU,Others,Others
-RALC,Basic Materials,Containers & Packaging
-RAMS,Industrials,Professional & Commercial Services
-RANH,Utilities,Water Utilities
-RAPD,Others,Others
-RAYG,Energy,Renewable Energy
-RED,Financials,Holding Companies
-REDH,Technology,Software & IT Services
-REDI,Financials,Banking Services
-REDP,Technology,Software & IT Services
-REKA,Others,Others
-RENE,Industrials,Construction & Engineering
-RESE,Energy,Oil & Gas
-RESN,Consumer Cyclicals,Homebuilding & Construction Supplies
-RESR,Energy,Oil & Gas Related Equipment and Services
-REVE,Industrials,Professional & Commercial Services
-REXI,Consumer Non-Cyclicals,Food & Tobacco
-REXT,Technology,Software & IT Services
-RGBI,Consumer Cyclicals,Hotels & Entertainment Services
-RGTB,Basic Materials,Chemicals
-RHBC,Financials,Banking Services
-RHOG,Consumer Cyclicals,Household Goods
-RHON,Healthcare,Pharmaceuticals
-RIMB,Consumer Non-Cyclicals,Food & Tobacco
-ROHA,Industrials,Construction & Engineering
-RTON,Technology,Others
-RVWL,Consumer Non-Cyclicals,Food & Tobacco
-SACB,Industrials,Machinery Equipment & Components
-SAEG,Industrials,Machinery Equipment & Components
-SAEN,Energy,Oil & Gas Related Equipment and Services
-SAHB,Basic Materials,Chemicals
-SAHO,Consumer Cyclicals,Media & Publishing
-SAIH,Industrials,Machinery Equipment & Components
-SALU,Technology,Communications & Networking
-SAMA,Industrials,Construction & Engineering
-SANC,Healthcare,Healthcare Equipment & Supplies
-SAPU,Consumer Cyclicals,Automobiles & Auto Parts
-SAUD,Consumer Non-Cyclicals,Food & Tobacco
-SBHM,Consumer Non-Cyclicals,Food & Tobacco
-SBRK,Consumer Non-Cyclicals,Food & Tobacco
-SCCE,Industrials,Machinery Equipment & Components
-SCCH,Consumer Non-Cyclicals,Food & Tobacco
-SCCM,Industrials,Professional & Commercial Services
-SCER,Consumer Cyclicals,Homebuilding & Construction Supplies
-SCES,Industrials,Freight & Logistics Services
-SCGB,Basic Materials,Chemicals
-SCHB,Industrials,Freight & Logistics Services
-SCIB,Basic Materials,Construction Materials
-SCIE,Basic Materials,Containers & Packaging
-SCOG,Industrials,Construction & Engineering
-SCPE,Technology,Semiconductors & Semiconductor Equipment
-SCST,Consumer Cyclicals,Homebuilding & Construction Supplies
-SCTH,Industrials,Machinery Equipment & Components
-SCWF,Basic Materials,Chemicals
-SDGS,Others,Others
-SDGU,Consumer Non-Cyclicals,Food & Tobacco
-SDSG,Consumer Non-Cyclicals,Food & Tobacco
-SEAL,Others,Others
-SECU,Technology,Software & IT Services
-SEDA,Technology,Others
-SEDU,Others,Others
-SENG,Consumer Cyclicals,Automobiles & Auto Parts
-SENH,Consumer Cyclicals,Specialty Retailers
-SENI,Consumer Cyclicals,Media & Publishing
-SENT,Real Estate,Residential & Commercial REITs
-SERE,Industrials,Construction & Engineering
-SETI,Others,Others
-SETIq,Others,Others
-SEVE,Consumer Non-Cyclicals,Food & Drug Retailing 
-SFCA,Others,Others
-SFPT,Basic Materials,Metals & Mining
-SGNA,Consumer Cyclicals,Homebuilding & Construction Supplies
-SHCS,Consumer Non-Cyclicals,Food & Tobacco
-SHGM,Consumer Cyclicals,Hotels & Entertainment Services
-SHHR,Consumer Cyclicals,Household Goods
-SHIN,Industrials,Freight & Logistics Services
-SHLC,Others,Others
-SIAB,Industrials,Construction & Engineering
-SIAH,Others,Others
-SIME,Consumer Non-Cyclicals,Others
-SINA,Consumer Cyclicals,Textiles & Apparel
-SINM,Consumer Non-Cyclicals,Food & Tobacco
-SIPR,Others,Others
-SIVR,Technology,Others
-SKBC,Consumer Cyclicals,Homebuilding & Construction Supplies
-SKOU,Consumer Cyclicals,Household Goods
-SKPR,Technology,Electronic Equipment & Parts
-SKYW,Industrials,Construction & Engineering
-SLCN,Industrials,Construction & Engineering
-SLEG,Financials,Holding Companies
-SLIN,Technology,Software & IT Services
-SLKI,Industrials,Machinery Equipment & Components
-SLPB,Basic Materials,Containers & Packaging
-SMBH,Consumer Cyclicals,Automobiles & Auto Parts
-SMIL,Healthcare,Healthcare Providers & Services
-SMIS,Industrials,Machinery Equipment & Components
-SMRS,Technology,Software & IT Services
-SMTR,Technology,Electronic Equipment & Parts
-SNSN,Technology,Software & IT Services
-SNTO,Consumer Cyclicals,Homebuilding & Construction Supplies
-SOIL,Consumer Cyclicals,Automobiles & Auto Parts
-SOLA,Utilities,Electrical Utilities & IPPs
-SOPS,Consumer Non-Cyclicals,Food & Tobacco
-SOUH,Industrials,Construction & Engineering
-SOUS,Basic Materials,Chemicals
-SOUT,Industrials,Machinery Equipment & Components
-SPLH,Industrials,Machinery Equipment & Components
-SPLN,Consumer Non-Cyclicals,Food & Tobacco
-SPOR,Consumer Cyclicals,Hotels & Entertainment Services
-SPRN,Consumer Cyclicals,Household Goods
-SPTZ,Consumer Non-Cyclicals,Beverages
-SRCS,Others,Others
-SSOL,Basic Materials,Chemicals
-STAR,Consumer Cyclicals,Media & Publishing
-STEE,Basic Materials,Metals & Mining
-STEH,Energy,Oil & Gas Related Equipment and Services
-STIK,Basic Materials,Containers & Packaging
-STRA,Energy,Oil & Gas
-SUBU,Consumer Non-Cyclicals,Food & Tobacco
-SUNM,Industrials,Construction & Engineering
-SUNS,Others,Others
-SUNV,Utilities,Electrical Utilities & IPPs
-SUNW,Real Estate,Residential & Commercial REITs
-SUPG,Healthcare,Biotechnology & Medical Research
-SUPM,Healthcare,Healthcare Equipment & Supplies
-SUPR,Consumer Non-Cyclicals,Food & Drug Retailing 
-SURI,Industrials,Transport Infrastructure
-SWAY,Industrials,Construction & Engineering
-SWAYq,Industrials,Construction & Engineering
-SWIF,Industrials,Freight & Logistics Services
-SWSB,Consumer Cyclicals,Household Goods
-SYCA,Industrials,Construction & Engineering
-SYML,Others,Others
-SYNE,Consumer Cyclicals,Household Goods
-SYST,Technology,Software & IT Services
-SZBB,Consumer Non-Cyclicals,Food & Tobacco
-TAAN,Consumer Non-Cyclicals,Food & Tobacco
-TAFI,Industrials,Professional & Commercial Services
-TAKA,Financials,Insurance
-TALA,Others,Others
-TAMB,Others,Others
-TANC,Others,Others
-TASC,Industrials,Freight & Logistics Services
-TASH,Basic Materials,Metals & Mining
-TCOM,Technology,Others
-TCSG,Industrials,Construction & Engineering
-TDMS,Healthcare,Healthcare Providers & Services
-TECA,Consumer Cyclicals,Hotels & Entertainment Services
-TECB,Basic Materials,Chemicals
-TECE,Consumer Cyclicals,Textiles & Apparel
-TELA,Others,Others
-TENA,Utilities,Electrical Utilities & IPPs
-TEXC,Consumer Non-Cyclicals,Others
-TFPS,Technology,Software & IT Services
-TGIB,Basic Materials,Containers & Packaging
-TGLB,Consumer Cyclicals,Textiles & Apparel
-TGLO,Energy,Oil & Gas Related Equipment and Services
-TGPB,Consumer Non-Cyclicals,Food & Tobacco
-THEA,Consumer Non-Cyclicals,Food & Tobacco
-THET,Technology,Others
-THPB,Consumer Non-Cyclicals,Food & Tobacco
-THRB,Industrials,Machinery Equipment & Components
-THRI,Others,Others
-TITI,Others,Others
-TLMM,Technology,Others
-TMCN,Healthcare,Healthcare Providers & Services
-TMEI,Consumer Cyclicals,Specialty Retailers
-TNCS,Consumer Cyclicals,Automobiles & Auto Parts
-TNTT,Industrials,Freight & Logistics Services
-TOEX,Technology,Software & IT Services
-TOMY,Basic Materials,Containers & Packaging
-TOPV,Healthcare,Healthcare Providers & Services
-TOYO,Basic Materials,Chemicals
-TPCP,Consumer Non-Cyclicals,Food & Tobacco
-TPGC,Healthcare,Healthcare Equipment & Supplies
-TRCG,Industrials,Construction & Engineering
-TRIM,Industrials,Freight & Logistics Services
-TRIV,Industrials,Machinery Equipment & Components
-TROP,Others,Others
-TSAG,Basic Materials,Metals & Mining
-TSCP,Consumer Non-Cyclicals,Food & Tobacco
-TSHB,Basic Materials,Chemicals
-TSHR,Consumer Non-Cyclicals,Food & Tobacco
-TSOF,Industrials,Machinery Equipment & Components
-TSRP,Industrials,Construction & Engineering
-TTVS,Technology,Semiconductors & Semiconductor Equipment
-TUJU,Industrials,Construction & Engineering
-TUNE,Financials,Insurance
-TURB,Industrials,Machinery Equipment & Components
-TURY,Technology,Semiconductors & Semiconductor Equipment
-TWEL,Basic Materials,Paper & Forest Products
-TWHB,Industrials,Machinery Equipment & Components
-TWLH,Others,Others
-TWPH,Industrials,Professional & Commercial Services
-TWRE,Real Estate,Residential & Commercial REITs
-TWRK,Utilities,Water Utilities
-TXCY,Industrials,Professional & Commercial Services
-UCHI,Technology,Electronic Equipment & Parts
-UCRE,Technology,Software & IT Services
-UEME,Industrials,Professional & Commercial Services
-UMEC,Industrials,Machinery Equipment & Components
-UMED,Healthcare,Healthcare Equipment & Supplies
-UMRS,Consumer Non-Cyclicals,Food & Tobacco
-UMSB,Others,Others
-UMSH,Industrials,Diversified Trading & Distributing
-UMSN,Industrials,Machinery Equipment & Components
-UNIQ,Others,Others
-UNIT,Consumer Cyclicals,Homebuilding & Construction Supplies
-UNIW,Industrials,Construction & Engineering
-UNSM,Technology,Semiconductors & Semiconductor Equipment
-UOAD,Others,Others
-UOAR,Real Estate,Residential & Commercial REITs
-UPAB,Basic Materials,Paper & Forest Products
-UTPS,Consumer Non-Cyclicals,Food & Tobacco
-UULI,Basic Materials,Metals & Mining
-UWCB,Industrials,Machinery Equipment & Components
-UZMA,Energy,Oil & Gas Related Equipment and Services
-VARI,Industrials,Construction & Engineering
-VELE,Energy,Oil & Gas Related Equipment and Services
-VELO,Consumer Cyclicals,Household Goods
-VEST,Consumer Cyclicals,Homebuilding & Construction Supplies
-VINV,Industrials,Construction & Engineering
-VIZI,Others,Others
-VOLC,Basic Materials,Metals & Mining
-VSDY,Industrials,Machinery Equipment & Components
-VSID,Technology,Electronic Equipment & Parts
-VSOL,Technology,Software & IT Services
-VSTE,Technology,Computers Phones & Household Electronics
-VSTL,Basic Materials,Containers & Packaging
-VTRX,Technology,Semiconductors & Semiconductor Equipment
-WAJA,Industrials,Construction & Engineering
-WASC,Energy,Oil & Gas Related Equipment and Services
-WATA,Industrials,Professional & Commercial Services
-WATC,Industrials,Machinery Equipment & Components
-WCAL,Consumer Cyclicals,Automobiles & Auto Parts
-WCEH,Industrials,Transport Infrastructure
-WCTE,Industrials,Construction & Engineering
-WEGM,Consumer Cyclicals,Household Goods
-WELL,Consumer Non-Cyclicals,Food & Drug Retailing 
-WENG,Industrials,Machinery Equipment & Components
-WENT,Basic Materials,Metals & Mining
-WGZH,Basic Materials,Paper & Forest Products
-WHSE,Consumer Cyclicals,Homebuilding & Construction Supplies
-WIDA,Industrials,Construction & Engineering
-WLAN,Consumer Cyclicals,Homebuilding & Construction Supplies
-WLOW,Technology,Software & IT Services
-WMGH,Others,Others
-WPHB,Industrials,Transport Infrastructure
-WTKH,Basic Materials,Paper & Forest Products
-XIDE,Consumer Cyclicals,Textiles & Apparel
-XINS,Basic Materials,Construction Materials
-XINW,Industrials,Freight & Logistics Services
-XLHO,Consumer Non-Cyclicals,Food & Tobacco
-XOXB,Technology,Others
-XOXN,Consumer Cyclicals,Specialty Retailers
-XOXT,Technology,Software & IT Services
-YBSI,Industrials,Machinery Equipment & Components
-YBVE,Consumer Cyclicals,Homebuilding & Construction Supplies
-YENH,Consumer Non-Cyclicals,Food & Tobacco
-YEWL,Consumer Non-Cyclicals,Personal &Household Products & Services
-YGCB,Others,Others
-YGLC,Technology,Software & IT Services
-YGON,Consumer Cyclicals,Household Goods
-YINS,Energy,Oil & Gas Related Equipment and Services
-YLIH,Basic Materials,Metals & Mining
-YNHB,Others,Others
-YONG,Others,Others
-YONGq,Others,Others
-YSPS,Healthcare,Pharmaceuticals
-YTLP,Utilities,Multiline Utilities
-YTLR,Real Estate,Residential & Commercial REITs
-YTLS,Utilities,Multiline Utilities
-YXPR,Consumer Cyclicals,Textiles & Apparel
-ZANT,Basic Materials,Chemicals
-ZCON,Industrials,Construction & Engineering
-ZENT,Technology,Software & IT Services
-ZHCO,Consumer Cyclicals,Textiles & Apparel
-ZLAN,Industrials,Construction & Engineering
+investing_symbol,sector,sub_sector,symbol
+AASB,Consumer Non-Cyclicals,Food & Tobacco,
+ABEL,Industrials,Construction & Engineering,
+ABLE,Consumer Non-Cyclicals,Food & Tobacco,
+ABMF,Consumer Cyclicals,Automobiles & Auto Parts,
+ACME,Basic Materials,Chemicals,
+ACOG,Industrials,Machinery Equipment & Components,
+ADVA,Consumer Cyclicals,Hotels & Entertainment Services,
+ADVE,Healthcare,Healthcare Equipment & Supplies,
+ADVN,Industrials,Construction & Engineering,
+AEML,Technology,Semiconductors & Semiconductor Equipment,
+AEMU,Technology,Semiconductors & Semiconductor Equipment,
+AEOM,Consumer Cyclicals,Diversified Retail,
+AFCB,Industrials,Professional & Commercial Services,
+AFHB,Consumer Non-Cyclicals,Food & Tobacco,
+AFIN,Financials,Banking Services,
+AGES,Industrials,Construction & Engineering,
+AGMO,Industrials,Professional & Commercial Services,
+AGXG,Industrials,Freight & Logistics Services,
+AIMD,Consumer Cyclicals,Media & Publishing,
+AIMF,Industrials,Machinery Equipment & Components,
+AINM,Financials,Insurance,
+AIRX,Industrials,Passenger Transportation Services,
+AJIN,Consumer Non-Cyclicals,Food & Tobacco,
+AJIY,Consumer Cyclicals,Homebuilding & Construction Supplies,
+ALCO,Basic Materials,Metals & Mining,
+ALDR,Technology,Software & IT Services,
+ALLI,Financials,Banking Services,
+ALMT,Energy,Oil & Gas Related Equipment and Services,
+ALPH,Consumer Non-Cyclicals,Food & Tobacco,
+ALSA,Others,Others,
+AMEE,Industrials,Construction & Engineering,
+AMER,Others,Others,
+AMLE,Industrials,Machinery Equipment & Components,
+AMMB,Financials,Banking Services,
+AMTH,Technology,Others,
+AMWA,Healthcare,Pharmaceuticals,
+ANCM,Basic Materials,Chemicals,
+ANCO,Industrials,Freight & Logistics Services,
+ANCR,Financials,Banking Services,
+ANEK,Industrials,Construction & Engineering,
+ANNJ,Basic Materials,Metals & Mining,
+ANNJq,Basic Materials,Metals & Mining,
+ANNU,Basic Materials,Paper & Forest Products,
+ANRE,Basic Materials,Chemicals,
+APBS,Industrials,Construction & Engineering,
+APER,Healthcare,Pharmaceuticals,
+APES,Financials,Investment Banking & Investment Services,
+APHB,Others,Others,
+APMA,Consumer Cyclicals,Automobiles & Auto Parts,
+APPA,Technology,Software & IT Services,
+ARBB,Technology,Software & IT Services,
+ARKA,Industrials,Freight & Logistics Services,
+ARKS,Industrials,Construction & Engineering,
+ARNK,Basic Materials,Metals & Mining,
+ARTR,Technology,Others,
+ARTW,Industrials,Professional & Commercial Services,
+ASDN,Industrials,Freight & Logistics Services,
+ASIA,Consumer Cyclicals,Textiles & Apparel,
+ASPY,Basic Materials,Chemicals,
+ASTA,Consumer Non-Cyclicals,Food & Tobacco,
+ASTE,Financials,Holding Companies,
+ASTR,Consumer Cyclicals,Media & Publishing,
+ATAI,Basic Materials,Containers & Packaging,
+ATLA,Industrials,Transport Infrastructure,
+ATNO,Consumer Cyclicals,Homebuilding & Construction Supplies,
+ATSM,Industrials,Machinery Equipment & Components,
+AURE,Technology,Electronic Equipment & Parts,
+AURH,Basic Materials,Paper & Forest Products,
+AUTC,Technology,Software & IT Services,
+AVAL,Others,Others,
+AVIL,Consumer Cyclicals,Hotels & Entertainment Services,
+AWAN,Technology,Software & IT Services,
+AWCF,Industrials,Professional & Commercial Services,
+AXIA,Technology,Others,
+AXTE,Others,Others,
+AYER,Others,Others,
+AYSV,Industrials,Diversified Trading & Distributing,
+AZRB,Industrials,Construction & Engineering,
+BABA,Consumer Cyclicals,Household Goods,
+BAHV,Consumer Non-Cyclicals,Food & Tobacco,
+BARA,Energy,Oil & Gas Related Equipment and Services,
+BATO,Consumer Non-Cyclicals,Food & Tobacco,
+BCBB,Others,Others,
+BCMA,Industrials,Machinery Equipment & Components,
+BDBS,Industrials,Construction & Engineering,
+BECH,Industrials,Professional & Commercial Services,
+BENL,Industrials,Construction & Engineering,
+BERA,Consumer Cyclicals,Specialty Retailers,
+BERJ,Others,Others,
+BERM,Others,Others,
+BESH,Consumer Cyclicals,Specialty Retailers,
+BETA,Consumer Cyclicals,Specialty Retailers,
+BGRO,Consumer Non-Cyclicals,Others,
+BHIB,Industrials,Machinery Equipment & Components,
+BIGI,Basic Materials,Construction Materials,
+BIMB,Financials,Banking Services,
+BINC,Technology,Others,
+BINS,Industrials,Construction & Engineering,
+BIOA,Healthcare,Pharmaceuticals,
+BJFO,Consumer Cyclicals,Hotels & Entertainment Services,
+BKCB,Industrials,Construction & Engineering,
+BLAD,Consumer Cyclicals,Hotels & Entertainment Services,
+BLDN,Consumer Non-Cyclicals,Food & Tobacco,
+BMGR,Industrials,Machinery Equipment & Components,
+BMYS,Financials,Investment Banking & Investment Services,
+BONI,Consumer Cyclicals,Specialty Retailers,
+BPAC,Basic Materials,Containers & Packaging,
+BPAK,Basic Materials,Containers & Packaging,
+BPOT,Industrials,Transport Infrastructure,
+BPPL,Basic Materials,Containers & Packaging,
+BPUR,Industrials,Construction & Engineering,
+BRNL,Consumer Cyclicals,Hotels & Entertainment Services,
+BSLC,Basic Materials,Metals & Mining,
+BTKW,Basic Materials,Chemicals,
+BTMR,Basic Materials,Paper & Forest Products,
+BUAB,Energy,Oil & Gas Related Equipment and Services,
+CABC,Consumer Non-Cyclicals,Food & Tobacco,
+CABN,Industrials,Construction & Engineering,
+CAPE,Technology,Electronic Equipment & Parts,
+CAPI,Industrials,Passenger Transportation Services,
+CARE,Healthcare,Healthcare Equipment & Supplies,
+CARL,Consumer Cyclicals,Specialty Retailers,
+CARM,Energy,Oil & Gas Related Equipment and Services,
+CARZ,Consumer Non-Cyclicals,Food & Tobacco,
+CATH,Consumer Cyclicals,Media & Publishing,
+CBIP,Industrials,Machinery Equipment & Components,
+CBMS,Consumer Non-Cyclicals,Beverages,
+CCIN,Consumer Non-Cyclicals,Personal &Household Products & Services,
+CCKH,Consumer Non-Cyclicals,Food & Drug Retailing ,
+CEKD,Industrials,Machinery Equipment & Components,
+CELC,Technology,Others,
+CENG,Healthcare,Healthcare Providers & Services,
+CENT,Industrials,Construction & Engineering,
+CETH,Consumer Cyclicals,Textiles & Apparel,
+CFMS,Industrials,Professional & Commercial Services,
+CHHB,Healthcare,Healthcare Providers & Services,
+CHIN,Consumer Cyclicals,Automobiles & Auto Parts,
+CHIU,Consumer Cyclicals,Homebuilding & Construction Supplies,
+CHOO,Basic Materials,Metals & Mining,
+CHRB,Financials,Holding Companies,
+CIHB,Consumer Non-Cyclicals,Food & Tobacco,
+CIMB,Financials,Banking Services,
+CITA,Industrials,Construction & Engineering,
+CITR,Consumer Non-Cyclicals,Food & Tobacco,
+CJCE,Industrials,Freight & Logistics Services,
+CLAS,Consumer Cyclicals,Textiles & Apparel,
+CLOD,Technology,Software & IT Services,
+CLOU,Technology,Software & IT Services,
+CMEG,Industrials,Machinery Equipment & Components,
+CMSM,Basic Materials,Construction Materials,
+CNAC,Industrials,Machinery Equipment & Components,
+CNER,Industrials,Machinery Equipment & Components,
+CNON,Basic Materials,Containers & Packaging,
+CNSH,Technology,Others,
+COMF,Healthcare,Healthcare Equipment & Supplies,
+CONC,Basic Materials,Construction Materials,
+CORA,Basic Materials,Metals & Mining,
+COSO,Basic Materials,Metals & Mining,
+COWH,Consumer Non-Cyclicals,Beverages,
+CPGT,Technology,Computers Phones & Household Electronics,
+CPWA,Consumer Non-Cyclicals,Food & Tobacco,
+CREC,Others,Others,
+CREH,Industrials,Construction & Engineering,
+CRIT,Industrials,Construction & Engineering,
+CRSM,Consumer Non-Cyclicals,Food & Tobacco,
+CSTH,Basic Materials,Metals & Mining,
+CTAL,Industrials,Machinery Equipment & Components,
+CTOS,Industrials,Professional & Commercial Services,
+CTPB,Consumer Non-Cyclicals,Food & Tobacco,
+CUSC,Technology,Software & IT Services,
+CVIE,Others,Others,
+CWGH,Industrials,Professional & Commercial Services,
+CWHB,Industrials,Machinery Equipment & Components,
+CYBE,Others,Others,
+CYLC,Basic Materials,Containers & Packaging,
+CYPR,Utilities,Electrical Utilities & IPPs,
+DATA,Technology,Software & IT Services,
+DAYT,Technology,Software & IT Services,
+DBMS,Consumer Non-Cyclicals,Food & Tobacco,
+DCHE,Consumer Non-Cyclicals,Personal &Household Products & Services,
+DEHB,Energy,Oil & Gas Related Equipment and Services,
+DELM,Industrials,Diversified Trading & Distributing,
+DEST,Industrials,Professional & Commercial Services,
+DFCI,Basic Materials,Construction Materials,
+DGBA,Technology,Software & IT Services,
+DIAL,Energy,Oil & Gas Related Equipment and Services,
+DIGS,Technology,Others,
+DIVF,Technology,Software & IT Services,
+DKLS,Industrials,Construction & Engineering,
+DLEU,Energy,Oil & Gas Related Equipment and Services,
+DNCE,Basic Materials,Containers & Packaging,
+DNCO,Industrials,Machinery Equipment & Components,
+DNEX,Technology,Software & IT Services,
+DOLP,Industrials,Machinery Equipment & Components,
+DOMN,Basic Materials,Paper & Forest Products,
+DOVT,Technology,Semiconductors & Semiconductor Equipment,
+DPIH,Basic Materials,Chemicals,
+DPSS,Industrials,Construction & Engineering,
+DRBM,Consumer Cyclicals,Automobiles & Auto Parts,
+DSON,Technology,Software & IT Services,
+DSRT,Consumer Non-Cyclicals,Food & Tobacco,
+DSSI,Basic Materials,Containers & Packaging,
+DUFU,Industrials,Machinery Equipment & Components,
+DUOP,Healthcare,Pharmaceuticals,
+DUTA,Others,Others,
+DXNO,Consumer Cyclicals,Specialty Retailers,
+DYNF,Technology,Software & IT Services,
+EAHL,Technology,Software & IT Services,
+EATE,Industrials,Freight & Logistics Services,
+ECAI,Technology,Semiconductors & Semiconductor Equipment,
+ECES,Industrials,Professional & Commercial Services,
+ECMI,Consumer Cyclicals,Hotels & Entertainment Services,
+ECOB,Industrials,Construction & Engineering,
+ECOD,Others,Others,
+ECOF,Others,Others,
+ECOH,Industrials,Construction & Engineering,
+ECOM,Consumer Cyclicals,Household Goods,
+ECOR,Consumer Cyclicals,Homebuilding & Construction Supplies,
+ECOS,Industrials,Construction & Engineering,
+ECOW,Others,Others,
+EDEL,Technology,Semiconductors & Semiconductor Equipment,
+EDEN,Utilities,Electrical Utilities & IPPs,
+EDSB,Technology,Software & IT Services,
+EDUS,Others,Others,
+EGCM,Technology,Electronic Equipment & Parts,
+EITA,Industrials,Machinery Equipment & Components,
+EKOV,Industrials,Construction & Engineering,
+EKSN,Basic Materials,Paper & Forest Products,
+ELKD,Financials,Banking Services,
+ELSR,Technology,Computers Phones & Household Electronics,
+EMIC,Industrials,Professional & Commercial Services,
+ENCR,Industrials,Construction & Engineering,
+ENES,Consumer Non-Cyclicals,Food & Tobacco,
+ENGH,Consumer Non-Cyclicals,Personal &Household Products & Services,
+ENOB,Others,Others,
+ENRA,Energy,Oil & Gas Related Equipment and Services,
+EONM,Basic Materials,Metals & Mining,
+EPIO,Industrials,Construction & Engineering,
+EPMB,Consumer Cyclicals,Automobiles & Auto Parts,
+EQUI,Financials,Investment Banking & Investment Services,
+ERHB,Industrials,Professional & Commercial Services,
+ESAN,Consumer Cyclicals,Household Goods,
+ESCB,Industrials,Construction & Engineering,
+ESCM,Consumer Cyclicals,Textiles & Apparel,
+ESTH,Consumer Cyclicals,Specialty Retailers,
+ETEX,Basic Materials,Metals & Mining,
+EUPE,Others,Others,
+EVDB,Technology,Software & IT Services,
+EVEG,Financials,Banking Services,
+EVES,Consumer Cyclicals,Automobiles & Auto Parts,
+EVGN,Basic Materials,Paper & Forest Products,
+EWEI,Industrials,Machinery Equipment & Components,
+EXFM,Technology,Software & IT Services,
+FACN,Consumer Cyclicals,Household Goods,
+FAJA,Industrials,Construction & Engineering,
+FARM,Consumer Non-Cyclicals,Food & Tobacco,
+FAST,Energy,Oil & Gas,
+FCDY,Consumer Cyclicals,Hotels & Entertainment Services,
+FCWH,Consumer Non-Cyclicals,Personal &Household Products & Services,
+FEHS,Consumer Non-Cyclicals,Food & Tobacco,
+FGVH,Consumer Non-Cyclicals,Food & Tobacco,
+FIAM,Consumer Cyclicals,Household Goods,
+FIBN,Industrials,Machinery Equipment & Components,
+FIHB,Consumer Cyclicals,Specialty Retailers,
+FIMA,Consumer Non-Cyclicals,Food & Tobacco,
+FINT,Consumer Cyclicals,Hotels & Entertainment Services,
+FITT,Consumer Non-Cyclicals,Food & Tobacco,
+FLEX,Industrials,Machinery Equipment & Components,
+FLIM,Others,Others,
+FMHB,Industrials,Freight & Logistics Services,
+FOLU,Basic Materials,Paper & Forest Products,
+FOPT,Consumer Cyclicals,Specialty Retailers,
+FOUN,Technology,Electronic Equipment & Parts,
+FPIB,Technology,Computers Phones & Household Electronics,
+FRAS,Consumer Non-Cyclicals,Beverages,
+FRKN,Industrials,Professional & Commercial Services,
+FUJI,Technology,Software & IT Services,
+FVCO,Industrials,Machinery Equipment & Components,
+GADA,Industrials,Construction & Engineering,
+GAGA,Others,Others,
+GAMU,Industrials,Construction & Engineering,
+GAQR,Industrials,Construction & Engineering,
+GASM,Utilities,Natural Gas Utilities,
+GBAY,Basic Materials,Containers & Packaging,
+GCAP,Industrials,Passenger Transportation Services,
+GDBH,Industrials,Construction & Engineering,
+GDEX,Industrials,Freight & Logistics Services,
+GENM,Consumer Cyclicals,Hotels & Entertainment Services,
+GENP,Consumer Non-Cyclicals,Food & Tobacco,
+GENT,Consumer Cyclicals,Hotels & Entertainment Services,
+GESH,Basic Materials,Chemicals,
+GFMS,Consumer Non-Cyclicals,Others,
+GHLS,Industrials,Professional & Commercial Services,
+GIIB,Consumer Cyclicals,Automobiles & Auto Parts,
+GKMS,Industrials,Machinery Equipment & Components,
+GLOA,Technology,Software & IT Services,
+GLOL,Others,Others,
+GLOM,Others,Others,
+GLOS,Industrials,Construction & Engineering,
+GLOT,Industrials,Machinery Equipment & Components,
+GMUT,Others,Others,
+GNCH,Consumer Non-Cyclicals,Food & Tobacco,
+GNIC,Technology,Semiconductors & Semiconductor Equipment,
+GOCE,Consumer Non-Cyclicals,Food & Tobacco,
+GOLD,Consumer Non-Cyclicals,Food & Tobacco,
+GOPK,Consumer Non-Cyclicals,Food & Tobacco,
+GPPR,Utilities,Electrical Utilities & IPPs,
+GRAN,Consumer Cyclicals,Hotels & Entertainment Services,
+GREA,Industrials,Machinery Equipment & Components,
+GRNP,Technology,Communications & Networking,
+GROS,Basic Materials,Paper & Forest Products,
+GRYB,Basic Materials,Paper & Forest Products,
+GTCY,Industrials,Machinery Equipment & Components,
+GUHB,Technology,Semiconductors & Semiconductor Equipment,
+GUOL,Others,Others,
+HAIL,Industrials,Construction & Engineering,
+HAPP,Consumer Non-Cyclicals,Food & Tobacco,
+HAPS,Consumer Non-Cyclicals,Others,
+HARE,Technology,Software & IT Services,
+HARR,Industrials,Freight & Logistics Services,
+HBGL,Consumer Non-Cyclicals,Food & Tobacco,
+HCKC,Others,Others,
+HDEB,Energy,Oil & Gas Related Equipment and Services,
+HEGR,Utilities,Electrical Utilities & IPPs,
+HEIN,Consumer Non-Cyclicals,Beverages,
+HEIT,Technology,Software & IT Services,
+HENY,Energy,Oil & Gas,
+HEVE,Basic Materials,Paper & Forest Products,
+HEXA,Basic Materials,Chemicals,
+HEXC,Technology,Communications & Networking,
+HEXE,Basic Materials,Construction Materials,
+HEXI,Basic Materials,Paper & Forest Products,
+HEXR,Healthcare,Healthcare Equipment & Supplies,
+HEXT,Basic Materials,Chemicals,
+HHCS,Industrials,Construction & Engineering,
+HHRG,Consumer Cyclicals,Textiles & Apparel,
+HIAP,Industrials,Professional & Commercial Services,
+HIBI,Energy,Oil & Gas,
+HILI,Basic Materials,Chemicals,
+HLBB,Financials,Banking Services,
+HLCB,Financials,Banking Services,
+HLEN,Consumer Non-Cyclicals,Food & Tobacco,
+HLGC,Financials,Investment Banking & Investment Services,
+HLIB,Consumer Non-Cyclicals,Others,
+HLTG,Industrials,Machinery Equipment & Components,
+HOME,Consumer Cyclicals,Household Goods,
+HONG,Healthcare,Healthcare Providers & Services,
+HOWA,Industrials,Machinery Equipment & Components,
+HPMT,Industrials,Machinery Equipment & Components,
+HPPH,Basic Materials,Containers & Packaging,
+HSIB,Consumer Non-Cyclicals,Food & Tobacco,
+HSON,Consumer Non-Cyclicals,Food & Drug Retailing ,
+HSSE,Industrials,Construction & Engineering,
+HTHB,Healthcare,Healthcare Equipment & Supplies,
+HTVE,Basic Materials,Metals & Mining,
+HUAY,Others,Others,
+HUBE,Industrials,Freight & Logistics Services,
+HUMC,Basic Materials,Construction Materials,
+HWAT,Consumer Non-Cyclicals,Food & Tobacco,
+HXZS,Basic Materials,Chemicals,
+IBHD,Others,Others,
+IBRC,Others,Others,
+ICOI,Healthcare,Healthcare Equipment & Supplies,
+ICON,Energy,Oil & Gas Related Equipment and Services,
+ICTZ,Consumer Non-Cyclicals,Personal &Household Products & Services,
+IDBT,Technology,Software & IT Services,
+IDEA,Others,Others,
+IFCA,Technology,Software & IT Services,
+IGBB,Others,Others,
+IGBC,Others,Others,
+IHHH,Healthcare,Healthcare Providers & Services,
+IJMS,Industrials,Construction & Engineering,
+IKEN,Consumer Cyclicals,Hotels & Entertainment Services,
+ILBG,Utilities,Electrical Utilities & IPPs,
+IMSP,Basic Materials,Chemicals,
+INAR,Technology,Semiconductors & Semiconductor Equipment,
+INDU,Technology,Electronic Equipment & Parts,
+INFM,Technology,Software & IT Services,
+INFO,Technology,Software & IT Services,
+INFR,Industrials,Construction & Engineering,
+INGE,Others,Others,
+INNA,Consumer Cyclicals,Specialty Retailers,
+INNO,Consumer Non-Cyclicals,Food & Tobacco,
+INNY,Consumer Cyclicals,Media & Publishing,
+INSS,Financials,Investment Banking & Investment Services,
+INTA,Consumer Cyclicals,Homebuilding & Construction Supplies,
+IOIB,Consumer Non-Cyclicals,Food & Tobacco,
+IOIP,Others,Others,
+IQGH,Technology,Electronic Equipment & Parts,
+IQZA,Basic Materials,Containers & Packaging,
+IRIB,Technology,Software & IT Services,
+IRKA,Industrials,Construction & Engineering,
+ITMA,Industrials,Professional & Commercial Services,
+IVRY,Others,Others,
+IWCI,Others,Others,
+JADI,Technology,Office Equipment,
+JAGB,Industrials,Professional & Commercial Services,
+JAKS,Industrials,Construction & Engineering,
+JATI,Industrials,Construction & Engineering,
+JAYC,Consumer Cyclicals,Household Goods,
+JCBN,Industrials,Professional & Commercial Services,
+JCYI,Technology,Computers Phones & Household Electronics,
+JENT,Utilities,Electrical Utilities & IPPs,
+JETS,Basic Materials,Chemicals,
+JFTB,Technology,Electronic Equipment & Parts,
+JHHS,Industrials,Diversified Trading & Distributing,
+JHMC,Technology,Semiconductors & Semiconductor Equipment,
+JIAN,Others,Others,
+JISH,Basic Materials,Containers & Packaging,
+JKBM,Industrials,Machinery Equipment & Components,
+JKGL,Others,Others,
+JOEH,Consumer Cyclicals,Automobiles & Auto Parts,
+JTIA,Basic Materials,Paper & Forest Products,
+KANG,Basic Materials,Paper & Forest Products,
+KARE,Consumer Non-Cyclicals,Personal &Household Products & Services,
+KARY,Basic Materials,Chemicals,
+KCDS,Others,Others,
+KEHG,Industrials,Machinery Equipment & Components,
+KELG,Industrials,Construction & Engineering,
+KENH,Others,Others,
+KERA,Others,Others,
+KESM,Technology,Semiconductors & Semiconductor Equipment,
+KEYF,Industrials,Freight & Logistics Services,
+KFIM,Industrials,Professional & Commercial Services,
+KGRP,Consumer Non-Cyclicals,Others,
+KGWG,Industrials,Freight & Logistics Services,
+KHEE,Consumer Non-Cyclicals,Food & Tobacco,
+KHIN,Industrials,Machinery Equipment & Components,
+KHLH,Industrials,Machinery Equipment & Components,
+KIAL,Basic Materials,Construction Materials,
+KICB,Industrials,Construction & Engineering,
+KIMH,Consumer Cyclicals,Homebuilding & Construction Supplies,
+KIMI,Consumer Cyclicals,Specialty Retailers,
+KIML,Consumer Non-Cyclicals,Food & Tobacco,
+KIMT,Consumer Non-Cyclicals,Food & Drug Retailing ,
+KINE,Industrials,Construction & Engineering,
+KJTS,Industrials,Professional & Commercial Services,
+KKBE,Industrials,Construction & Engineering,
+KLKK,Basic Materials,Chemicals,
+KLRK,Consumer Non-Cyclicals,Food & Tobacco,
+KMDA,Consumer Cyclicals,Textiles & Apparel,
+KNMP,Energy,Oil & Gas Related Equipment and Services,
+KNNK,Financials,Investment Banking & Investment Services,
+KNUS,Industrials,Construction & Engineering,
+KOBA,Industrials,Machinery Equipment & Components,
+KOIN,Healthcare,Pharmaceuticals,
+KOMK,Industrials,Professional & Commercial Services,
+KONE,Technology,Electronic Equipment & Parts,
+KPJH,Healthcare,Healthcare Providers & Services,
+KPSB,Industrials,Machinery Equipment & Components,
+KPSC,Basic Materials,Construction Materials,
+KREJ,Industrials,Construction & Engineering,
+KREK,Consumer Non-Cyclicals,Food & Tobacco,
+KRIB,Healthcare,Healthcare Equipment & Supplies,
+KRON,Technology,Software & IT Services,
+KSLH,Others,Others,
+KSMS,Consumer Non-Cyclicals,Food & Tobacco,
+KSSC,Basic Materials,Metals & Mining,
+KUBM,Energy,Oil & Gas,
+KUMP,Others,Others,
+KWNF,Consumer Non-Cyclicals,Food & Tobacco,
+KYAC,Technology,Semiconductors & Semiconductor Equipment,
+KYMH,Basic Materials,Containers & Packaging,
+LAGE,Others,Others,
+LAMB,Consumer Cyclicals,Textiles & Apparel,
+LAND,Others,Others,
+LAYH,Consumer Non-Cyclicals,Food & Tobacco,
+LBAL,Basic Materials,Metals & Mining,
+LBIP,Others,Others,
+LBSB,Others,Others,
+LBSBq,Others,Others,
+LCBH,Basic Materials,Chemicals,
+LEAD,Basic Materials,Metals & Mining,
+LEBT,Industrials,Construction & Engineering,
+LEFO,Basic Materials,Metals & Mining,
+LEOG,Consumer Non-Cyclicals,Food & Tobacco,
+LEON,Basic Materials,Metals & Mining,
+LFEC,Industrials,Construction & Engineering,
+LGMS,Technology,Software & IT Services,
+LHCK,Industrials,Construction & Engineering,
+LHEN,Consumer Cyclicals,Household Goods,
+LHTM,Consumer Cyclicals,Household Goods,
+LIMS,Consumer Cyclicals,Specialty Retailers,
+LIOP,Consumer Cyclicals,Homebuilding & Construction Supplies,
+LKLI,Healthcare,Healthcare Equipment & Supplies,
+LLBM,Basic Materials,Metals & Mining,
+LMHS,Consumer Cyclicals,Hotels & Entertainment Services,
+LOND,Financials,Insurance,
+LOTT,Basic Materials,Chemicals,
+LOTU,Consumer Non-Cyclicals,Food & Tobacco,
+LPGL,Basic Materials,Containers & Packaging,
+LTER,Basic Materials,Chemicals,
+LTKM,Consumer Non-Cyclicals,Food & Tobacco,
+LYCH,Healthcare,Healthcare Providers & Services,
+LYSA,Basic Materials,Metals & Mining,
+MAAS,Financials,Insurance,
+MAEQ,Consumer Cyclicals,Household Goods,
+MAGA,Consumer Cyclicals,Hotels & Entertainment Services,
+MAGH,Consumer Non-Cyclicals,Food & Tobacco,
+MAGM,Consumer Cyclicals,Hotels & Entertainment Services,
+MAGN,Others,Others,
+MAHB,Industrials,Transport Infrastructure,
+MAHS,Others,Others,
+MALA,Utilities,Electrical Utilities & IPPs,
+MALY,Basic Materials,Construction Materials,
+MANS,Technology,Software & IT Services,
+MARI,Industrials,Transport Infrastructure,
+MAST,Industrials,Machinery Equipment & Components,
+MATA,Consumer Non-Cyclicals,Food & Tobacco,
+MATE,Consumer Cyclicals,Textiles & Apparel,
+MATI,Industrials,Transport Infrastructure,
+MATR,Others,Others,
+MAXI,Industrials,Construction & Engineering,
+MAXL,Basic Materials,Paper & Forest Products,
+MAYB,Industrials,Freight & Logistics Services,
+MAYU,Basic Materials,Metals & Mining,
+MBBM,Financials,Banking Services,
+MBMR,Consumer Cyclicals,Automobiles & Auto Parts,
+MBSB,Financials,Banking Services,
+MCEI,Consumer Cyclicals,Automobiles & Auto Parts,
+MCLN,Industrials,Professional & Commercial Services,
+MCOM,Consumer Cyclicals,Media & Publishing,
+MCRK,Technology,Software & IT Services,
+MDCH,Others,Others,
+MEGA,Energy,Renewable Energy,
+MEHB,Industrials,Construction & Engineering,
+MEIS,Industrials,Construction & Engineering,
+MENT,Basic Materials,Paper & Forest Products,
+MERC,Financials,Investment Banking & Investment Services,
+MERI,Others,Others,
+MESB,Consumer Cyclicals,Specialty Retailers,
+MEST,Consumer Cyclicals,Homebuilding & Construction Supplies,
+METB,Consumer Cyclicals,Hotels & Entertainment Services,
+METO,Healthcare,Healthcare Providers & Services,
+METR,Others,Others,
+MFMS,Consumer Non-Cyclicals,Food & Tobacco,
+MGBB,Industrials,Construction & Engineering,
+MGRC,Healthcare,Healthcare Providers & Services,
+MHBS,Consumer Non-Cyclicals,Food & Tobacco,
+MHCP,Consumer Non-Cyclicals,Food & Tobacco,
+MHEB,Energy,Oil & Gas Related Equipment and Services,
+MIEC,Basic Materials,Paper & Forest Products,
+MIKB,Industrials,Machinery Equipment & Components,
+MILU,Consumer Cyclicals,Household Goods,
+MINO,Basic Materials,Metals & Mining,
+MISC,Industrials,Transport Infrastructure,
+MITC,Others,Others,
+MITE,Technology,Semiconductors & Semiconductor Equipment,
+MITR,Industrials,Construction & Engineering,
+MJPR,Others,Others,
+MJYA,Industrials,Construction & Engineering,
+MKLH,Others,Others,
+MLBS,Technology,Software & IT Services,
+MLTO,Others,Others,
+MMAG,Technology,Software & IT Services,
+MMMG,Consumer Cyclicals,Media & Publishing,
+MMSI,Basic Materials,Metals & Mining,
+MMST,Industrials,Machinery Equipment & Components,
+MNCS,Others,Others,
+MNCW,Technology,Software & IT Services,
+MNGA,Technology,Software & IT Services,
+MNHL,Industrials,Construction & Engineering,
+MNHO,Basic Materials,Paper & Forest Products,
+MNLF,Financials,Insurance,
+MNRB,Financials,Insurance,
+MNTH,Basic Materials,Construction Materials,
+MOBI,Consumer Cyclicals,Household Goods,
+MPHB,Consumer Cyclicals,Hotels & Entertainment Services,
+MPIM,Technology,Semiconductors & Semiconductor Equipment,
+MPIR,Consumer Cyclicals,Household Goods,
+MPRM,Consumer Cyclicals,Media & Publishing,
+MQTE,Industrials,Machinery Equipment & Components,
+MRDI,Consumer Cyclicals,Specialty Retailers,
+MRHB,Consumer Cyclicals,Textiles & Apparel,
+MROD,Industrials,Machinery Equipment & Components,
+MSCB,Basic Materials,Metals & Mining,
+MSMH,Consumer Non-Cyclicals,Food & Tobacco,
+MSTG,Consumer Cyclicals,Hotels & Entertainment Services,
+MSTM,Basic Materials,Metals & Mining,
+MSTP,Basic Materials,Containers & Packaging,
+MSWK,Basic Materials,Metals & Mining,
+MTAG,Industrials,Professional & Commercial Services,
+MTNC,Industrials,Professional & Commercial Services,
+MTOU,Technology,Software & IT Services,
+MUBL,Industrials,Machinery Equipment & Components,
+MUDA,Basic Materials,Containers & Packaging,
+MUHB,Others,Others,
+MUHI,Industrials,Construction & Engineering,
+MUIB,Consumer Cyclicals,Hotels & Entertainment Services,
+MUIP,Others,Others,
+MXSC,Technology,Others,
+MYCS,Basic Materials,Metals & Mining,
+MYEG,Technology,Software & IT Services,
+MYMB,Consumer Non-Cyclicals,Food & Tobacco,
+MYNE,Consumer Non-Cyclicals,Food & Drug Retailing ,
+MYRS,Industrials,Construction & Engineering,
+MYTE,Industrials,Machinery Equipment & Components,
+NATI,Technology,Electronic Equipment & Parts,
+NCHB,Industrials,Construction & Engineering,
+NCTA,Others,Others,
+NESM,Consumer Non-Cyclicals,Food & Tobacco,
+NEST,Others,Others,
+NETX,Technology,Software & IT Services,
+NEXG,Technology,Software & IT Services,
+NEXT,Industrials,Professional & Commercial Services,
+NHFH,Consumer Cyclicals,Automobiles & Auto Parts,
+NHSN,Consumer Cyclicals,Household Goods,
+NICH,Consumer Cyclicals,Textiles & Apparel,
+NMBS,Financials,Holding Companies,
+NNCB,Technology,Software & IT Services,
+NOVS,Technology,Software & IT Services,
+NOVW,Consumer Non-Cyclicals,Food & Tobacco,
+NPCR,Consumer Non-Cyclicals,Food & Tobacco,
+NSOS,Consumer Non-Cyclicals,Food & Tobacco,
+NTPM,Consumer Non-Cyclicals,Personal &Household Products & Services,
+NVTE,Technology,Computers Phones & Household Electronics,
+OCBB,Consumer Non-Cyclicals,Food & Tobacco,
+OCEA,Consumer Cyclicals,Textiles & Apparel,
+OCEN,Energy,Oil & Gas Related Equipment and Services,
+OCKG,Technology,Others,
+OCRG,Others,Others,
+OFIH,Consumer Non-Cyclicals,Food & Tobacco,
+OINT,Others,Others,
+OKAC,Basic Materials,Construction Materials,
+OLYM,Consumer Cyclicals,Hotels & Entertainment Services,
+OMES,Technology,Software & IT Services,
+OMHO,Others,Others,
+ONEG,Healthcare,Healthcare Equipment & Supplies,
+ONET,Technology,Software & IT Services,
+ONLY,Consumer Cyclicals,Hotels & Entertainment Services,
+OPPS,Technology,Others,
+OPTI,Healthcare,Healthcare Providers & Services,
+OPYS,Technology,Software & IT Services,
+ORGA,Consumer Non-Cyclicals,Food & Tobacco,
+ORPA,Basic Materials,Containers & Packaging,
+OSKH,Others,Others,
+OSKV,Financials,Investment Banking & Investment Services,
+OTLS,Consumer Cyclicals,Specialty Retailers,
+OVER,Consumer Cyclicals,Hotels & Entertainment Services,
+PACO,Financials,Insurance,
+PAND,Technology,Software & IT Services,
+PANS,Industrials,Diversified Trading & Distributing,
+PAOS,Consumer Non-Cyclicals,Personal &Household Products & Services,
+PAPP,Financials,Banking Services,
+PARA,Consumer Cyclicals,Homebuilding & Construction Supplies,
+PARB,Basic Materials,Metals & Mining,
+PARL,Consumer Cyclicals,Hotels & Entertainment Services,
+PARW,Others,Others,
+PASU,Industrials,Construction & Engineering,
+PBAH,Utilities,Water Utilities,
+PCCS,Consumer Cyclicals,Textiles & Apparel,
+PCGB,Basic Materials,Chemicals,
+PDEC,Others,Others,
+PDNI,Consumer Cyclicals,Specialty Retailers,
+PDZH,Industrials,Freight & Logistics Services,
+PECC,Consumer Cyclicals,Automobiles & Auto Parts,
+PEGA,Consumer Cyclicals,Household Goods,
+PEIN,Industrials,Construction & Engineering,
+PEKA,Utilities,Electrical Utilities & IPPs,
+PELK,Industrials,Professional & Commercial Services,
+PENS,Consumer Cyclicals,Household Goods,
+PEPT,Consumer Non-Cyclicals,Food & Tobacco,
+PERA,Industrials,Transport Infrastructure,
+PERM,Technology,Others,
+PERT,Industrials,Passenger Transportation Services,
+PESO,Industrials,Construction & Engineering,
+PETR,Energy,Oil & Gas,
+PGAS,Utilities,Natural Gas Utilities,
+PGFC,Basic Materials,Construction Materials,
+PGKN,Consumer Cyclicals,Hotels & Entertainment Services,
+PGON,Consumer Cyclicals,Household Goods,
+PGSV,Industrials,Professional & Commercial Services,
+PHMA,Healthcare,Pharmaceuticals,
+PHUA,Consumer Cyclicals,Household Goods,
+PIEN,Industrials,Machinery Equipment & Components,
+PIMP,Financials,Holding Companies,
+PINE,Technology,Others,
+PINT,Industrials,Construction & Engineering,
+PIPB,Consumer Non-Cyclicals,Food & Tobacco,
+PJSB,Industrials,Construction & Engineering,
+PLBE,Industrials,Construction & Engineering,
+PLET,Others,Others,
+PLHB,Consumer Non-Cyclicals,Food & Tobacco,
+PLSB,Industrials,Construction & Engineering,
+PLYT,Industrials,Construction & Engineering,
+PMAS,Industrials,Machinery Equipment & Components,
+PMBT,Basic Materials,Metals & Mining,
+PMCS,Consumer Non-Cyclicals,Food & Tobacco,
+PMET,Basic Materials,Metals & Mining,
+PMJU,Consumer Cyclicals,Automobiles & Auto Parts,
+PMMY,Consumer Cyclicals,Household Goods,
+PNEB,Technology,Semiconductors & Semiconductor Equipment,
+PNHB,Industrials,Professional & Commercial Services,
+PNTE,Basic Materials,Metals & Mining,
+POHK,Consumer Cyclicals,Textiles & Apparel,
+POLD,Industrials,Professional & Commercial Services,
+POWE,Consumer Non-Cyclicals,Beverages,
+POWR,Industrials,Machinery Equipment & Components,
+PPHB,Basic Materials,Containers & Packaging,
+PRGH,Consumer Cyclicals,Textiles & Apparel,
+PRKN,Consumer Cyclicals,Diversified Retail,
+PRMS,Others,Others,
+PROE,Industrials,Construction & Engineering,
+PRTB,Technology,Software & IT Services,
+PRTO,Industrials,Construction & Engineering,
+PSHL,Industrials,Freight & Logistics Services,
+PSTM,Basic Materials,Containers & Packaging,
+PTAR,Basic Materials,Metals & Mining,
+PTMR,Energy,Oil & Gas,
+PTRD,Energy,Oil & Gas Related Equipment and Services,
+PTRE,Industrials,Machinery Equipment & Components,
+PTRS,Consumer Non-Cyclicals,Food & Tobacco,
+PTTY,Industrials,Construction & Engineering,
+PUBM,Financials,Banking Services,
+PUCB,Technology,Software & IT Services,
+PWFC,Consumer Non-Cyclicals,Food & Tobacco,
+QCHB,Others,Others,
+QESG,Industrials,Machinery Equipment & Components,
+QRES,Consumer Non-Cyclicals,Food & Tobacco,
+RADI,Consumer Cyclicals,Specialty Retailers,
+RADU,Others,Others,
+RALC,Basic Materials,Containers & Packaging,
+RAMS,Industrials,Professional & Commercial Services,
+RANH,Utilities,Water Utilities,
+RAPD,Others,Others,
+RAYG,Energy,Renewable Energy,
+RED,Financials,Holding Companies,
+REDH,Technology,Software & IT Services,
+REDI,Financials,Banking Services,
+REDP,Technology,Software & IT Services,
+REKA,Others,Others,
+RENE,Industrials,Construction & Engineering,
+RESE,Energy,Oil & Gas,
+RESN,Consumer Cyclicals,Homebuilding & Construction Supplies,
+RESR,Energy,Oil & Gas Related Equipment and Services,
+REVE,Industrials,Professional & Commercial Services,
+REXI,Consumer Non-Cyclicals,Food & Tobacco,
+REXT,Technology,Software & IT Services,
+RGBI,Consumer Cyclicals,Hotels & Entertainment Services,
+RGTB,Basic Materials,Chemicals,
+RHBC,Financials,Banking Services,
+RHOG,Consumer Cyclicals,Household Goods,
+RHON,Healthcare,Pharmaceuticals,
+RIMB,Consumer Non-Cyclicals,Food & Tobacco,
+ROHA,Industrials,Construction & Engineering,
+RTON,Technology,Others,
+RVWL,Consumer Non-Cyclicals,Food & Tobacco,
+SACB,Industrials,Machinery Equipment & Components,
+SAEG,Industrials,Machinery Equipment & Components,
+SAEN,Energy,Oil & Gas Related Equipment and Services,
+SAHB,Basic Materials,Chemicals,
+SAHO,Consumer Cyclicals,Media & Publishing,
+SAIH,Industrials,Machinery Equipment & Components,
+SALU,Technology,Communications & Networking,
+SAMA,Industrials,Construction & Engineering,
+SANC,Healthcare,Healthcare Equipment & Supplies,
+SAPU,Consumer Cyclicals,Automobiles & Auto Parts,
+SAUD,Consumer Non-Cyclicals,Food & Tobacco,
+SBHM,Consumer Non-Cyclicals,Food & Tobacco,
+SBRK,Consumer Non-Cyclicals,Food & Tobacco,
+SCCE,Industrials,Machinery Equipment & Components,
+SCCH,Consumer Non-Cyclicals,Food & Tobacco,
+SCCM,Industrials,Professional & Commercial Services,
+SCER,Consumer Cyclicals,Homebuilding & Construction Supplies,
+SCES,Industrials,Freight & Logistics Services,
+SCGB,Basic Materials,Chemicals,
+SCHB,Industrials,Freight & Logistics Services,
+SCIB,Basic Materials,Construction Materials,
+SCIE,Basic Materials,Containers & Packaging,
+SCOG,Industrials,Construction & Engineering,
+SCPE,Technology,Semiconductors & Semiconductor Equipment,
+SCST,Consumer Cyclicals,Homebuilding & Construction Supplies,
+SCTH,Industrials,Machinery Equipment & Components,
+SCWF,Basic Materials,Chemicals,
+SDGS,Others,Others,
+SDGU,Consumer Non-Cyclicals,Food & Tobacco,
+SDSG,Consumer Non-Cyclicals,Food & Tobacco,
+SEAL,Others,Others,
+SECU,Technology,Software & IT Services,
+SEDA,Technology,Others,
+SEDU,Others,Others,
+SENG,Consumer Cyclicals,Automobiles & Auto Parts,
+SENH,Consumer Cyclicals,Specialty Retailers,
+SENI,Consumer Cyclicals,Media & Publishing,
+SERE,Industrials,Construction & Engineering,
+SETI,Others,Others,
+SETIq,Others,Others,
+SEVE,Consumer Non-Cyclicals,Food & Drug Retailing ,
+SFCA,Others,Others,
+SFPT,Basic Materials,Metals & Mining,
+SGNA,Consumer Cyclicals,Homebuilding & Construction Supplies,
+SHCS,Consumer Non-Cyclicals,Food & Tobacco,
+SHGM,Consumer Cyclicals,Hotels & Entertainment Services,
+SHHR,Consumer Cyclicals,Household Goods,
+SHIN,Industrials,Freight & Logistics Services,
+SHLC,Others,Others,
+SIAB,Industrials,Construction & Engineering,
+SIAH,Others,Others,
+SIME,Consumer Non-Cyclicals,Others,
+SINA,Consumer Cyclicals,Textiles & Apparel,
+SINM,Consumer Non-Cyclicals,Food & Tobacco,
+SIPR,Others,Others,
+SIVR,Technology,Others,
+SKBC,Consumer Cyclicals,Homebuilding & Construction Supplies,
+SKOU,Consumer Cyclicals,Household Goods,
+SKPR,Technology,Electronic Equipment & Parts,
+SKYW,Industrials,Construction & Engineering,
+SLCN,Industrials,Construction & Engineering,
+SLEG,Financials,Holding Companies,
+SLIN,Technology,Software & IT Services,
+SLKI,Industrials,Machinery Equipment & Components,
+SLPB,Basic Materials,Containers & Packaging,
+SMBH,Consumer Cyclicals,Automobiles & Auto Parts,
+SMIL,Healthcare,Healthcare Providers & Services,
+SMIS,Industrials,Machinery Equipment & Components,
+SMRS,Technology,Software & IT Services,
+SMTR,Technology,Electronic Equipment & Parts,
+SNSN,Technology,Software & IT Services,
+SNTO,Consumer Cyclicals,Homebuilding & Construction Supplies,
+SOIL,Consumer Cyclicals,Automobiles & Auto Parts,
+SOLA,Utilities,Electrical Utilities & IPPs,
+SOPS,Consumer Non-Cyclicals,Food & Tobacco,
+SOUH,Industrials,Construction & Engineering,
+SOUS,Basic Materials,Chemicals,
+SOUT,Industrials,Machinery Equipment & Components,
+SPLH,Industrials,Machinery Equipment & Components,
+SPLN,Consumer Non-Cyclicals,Food & Tobacco,
+SPOR,Consumer Cyclicals,Hotels & Entertainment Services,
+SPRN,Consumer Cyclicals,Household Goods,
+SPTZ,Consumer Non-Cyclicals,Beverages,
+SRCS,Others,Others,
+SSOL,Basic Materials,Chemicals,
+STAR,Consumer Cyclicals,Media & Publishing,
+STEE,Basic Materials,Metals & Mining,
+STEH,Energy,Oil & Gas Related Equipment and Services,
+STIK,Basic Materials,Containers & Packaging,
+STRA,Energy,Oil & Gas,
+SUBU,Consumer Non-Cyclicals,Food & Tobacco,
+SUNM,Industrials,Construction & Engineering,
+SUNS,Others,Others,
+SUNV,Utilities,Electrical Utilities & IPPs,
+SUPG,Healthcare,Biotechnology & Medical Research,
+SUPM,Healthcare,Healthcare Equipment & Supplies,
+SUPR,Consumer Non-Cyclicals,Food & Drug Retailing ,
+SURI,Industrials,Transport Infrastructure,
+SWAY,Industrials,Construction & Engineering,
+SWAYq,Industrials,Construction & Engineering,
+SWIF,Industrials,Freight & Logistics Services,
+SWSB,Consumer Cyclicals,Household Goods,
+SYCA,Industrials,Construction & Engineering,
+SYML,Others,Others,
+SYNE,Consumer Cyclicals,Household Goods,
+SYST,Technology,Software & IT Services,
+SZBB,Consumer Non-Cyclicals,Food & Tobacco,
+TAAN,Consumer Non-Cyclicals,Food & Tobacco,
+TAFI,Industrials,Professional & Commercial Services,
+TAKA,Financials,Insurance,
+TALA,Others,Others,
+TAMB,Others,Others,
+TANC,Others,Others,
+TASC,Industrials,Freight & Logistics Services,
+TASH,Basic Materials,Metals & Mining,
+TCOM,Technology,Others,
+TCSG,Industrials,Construction & Engineering,
+TDMS,Healthcare,Healthcare Providers & Services,
+TECA,Consumer Cyclicals,Hotels & Entertainment Services,
+TECB,Basic Materials,Chemicals,
+TECE,Consumer Cyclicals,Textiles & Apparel,
+TELA,Others,Others,
+TENA,Utilities,Electrical Utilities & IPPs,
+TEXC,Consumer Non-Cyclicals,Others,
+TFPS,Technology,Software & IT Services,
+TGIB,Basic Materials,Containers & Packaging,
+TGLB,Consumer Cyclicals,Textiles & Apparel,
+TGLO,Energy,Oil & Gas Related Equipment and Services,
+TGPB,Consumer Non-Cyclicals,Food & Tobacco,
+THEA,Consumer Non-Cyclicals,Food & Tobacco,
+THET,Technology,Others,
+THPB,Consumer Non-Cyclicals,Food & Tobacco,
+THRB,Industrials,Machinery Equipment & Components,
+THRI,Others,Others,
+TITI,Others,Others,
+TLMM,Technology,Others,
+TMCN,Healthcare,Healthcare Providers & Services,
+TMEI,Consumer Cyclicals,Specialty Retailers,
+TNCS,Consumer Cyclicals,Automobiles & Auto Parts,
+TNTT,Industrials,Freight & Logistics Services,
+TOEX,Technology,Software & IT Services,
+TOMY,Basic Materials,Containers & Packaging,
+TOPV,Healthcare,Healthcare Providers & Services,
+TOYO,Basic Materials,Chemicals,
+TPCP,Consumer Non-Cyclicals,Food & Tobacco,
+TPGC,Healthcare,Healthcare Equipment & Supplies,
+TRCG,Industrials,Construction & Engineering,
+TRIM,Industrials,Freight & Logistics Services,
+TRIV,Industrials,Machinery Equipment & Components,
+TROP,Others,Others,
+TSAG,Basic Materials,Metals & Mining,
+TSCP,Consumer Non-Cyclicals,Food & Tobacco,
+TSHB,Basic Materials,Chemicals,
+TSHR,Consumer Non-Cyclicals,Food & Tobacco,
+TSOF,Industrials,Machinery Equipment & Components,
+TSRP,Industrials,Construction & Engineering,
+TTVS,Technology,Semiconductors & Semiconductor Equipment,
+TUJU,Industrials,Construction & Engineering,
+TUNE,Financials,Insurance,
+TURB,Industrials,Machinery Equipment & Components,
+TURY,Technology,Semiconductors & Semiconductor Equipment,
+TWEL,Basic Materials,Paper & Forest Products,
+TWHB,Industrials,Machinery Equipment & Components,
+TWLH,Others,Others,
+TWPH,Industrials,Professional & Commercial Services,
+TWRK,Utilities,Water Utilities,
+TXCY,Industrials,Professional & Commercial Services,
+UCHI,Technology,Electronic Equipment & Parts,
+UCRE,Technology,Software & IT Services,
+UEME,Industrials,Professional & Commercial Services,
+UMEC,Industrials,Machinery Equipment & Components,
+UMED,Healthcare,Healthcare Equipment & Supplies,
+UMRS,Consumer Non-Cyclicals,Food & Tobacco,
+UMSB,Others,Others,
+UMSH,Industrials,Diversified Trading & Distributing,
+UMSN,Industrials,Machinery Equipment & Components,
+UNIQ,Others,Others,
+UNIT,Consumer Cyclicals,Homebuilding & Construction Supplies,
+UNIW,Industrials,Construction & Engineering,
+UNSM,Technology,Semiconductors & Semiconductor Equipment,
+UOAD,Others,Others,
+UPAB,Basic Materials,Paper & Forest Products,
+UTPS,Consumer Non-Cyclicals,Food & Tobacco,
+UULI,Basic Materials,Metals & Mining,
+UWCB,Industrials,Machinery Equipment & Components,
+UZMA,Energy,Oil & Gas Related Equipment and Services,
+VARI,Industrials,Construction & Engineering,
+VELE,Energy,Oil & Gas Related Equipment and Services,
+VELO,Consumer Cyclicals,Household Goods,
+VEST,Consumer Cyclicals,Homebuilding & Construction Supplies,
+VINV,Industrials,Construction & Engineering,
+VIZI,Others,Others,
+VOLC,Basic Materials,Metals & Mining,
+VSDY,Industrials,Machinery Equipment & Components,
+VSID,Technology,Electronic Equipment & Parts,
+VSOL,Technology,Software & IT Services,
+VSTE,Technology,Computers Phones & Household Electronics,
+VSTL,Basic Materials,Containers & Packaging,
+VTRX,Technology,Semiconductors & Semiconductor Equipment,
+WAJA,Industrials,Construction & Engineering,
+WASC,Energy,Oil & Gas Related Equipment and Services,
+WATA,Industrials,Professional & Commercial Services,
+WATC,Industrials,Machinery Equipment & Components,
+WCAL,Consumer Cyclicals,Automobiles & Auto Parts,
+WCEH,Industrials,Transport Infrastructure,
+WCTE,Industrials,Construction & Engineering,
+WEGM,Consumer Cyclicals,Household Goods,
+WELL,Consumer Non-Cyclicals,Food & Drug Retailing ,
+WENG,Industrials,Machinery Equipment & Components,
+WENT,Basic Materials,Metals & Mining,
+WGZH,Basic Materials,Paper & Forest Products,
+WHSE,Consumer Cyclicals,Homebuilding & Construction Supplies,
+WIDA,Industrials,Construction & Engineering,
+WLAN,Consumer Cyclicals,Homebuilding & Construction Supplies,
+WLOW,Technology,Software & IT Services,
+WMGH,Others,Others,
+WPHB,Industrials,Transport Infrastructure,
+WTKH,Basic Materials,Paper & Forest Products,
+XIDE,Consumer Cyclicals,Textiles & Apparel,
+XINS,Basic Materials,Construction Materials,
+XINW,Industrials,Freight & Logistics Services,
+XLHO,Consumer Non-Cyclicals,Food & Tobacco,
+XOXB,Technology,Others,
+XOXN,Consumer Cyclicals,Specialty Retailers,
+XOXT,Technology,Software & IT Services,
+YBSI,Industrials,Machinery Equipment & Components,
+YBVE,Consumer Cyclicals,Homebuilding & Construction Supplies,
+YENH,Consumer Non-Cyclicals,Food & Tobacco,
+YEWL,Consumer Non-Cyclicals,Personal &Household Products & Services,
+YGCB,Others,Others,
+YGLC,Technology,Software & IT Services,
+YGON,Consumer Cyclicals,Household Goods,
+YINS,Energy,Oil & Gas Related Equipment and Services,
+YLIH,Basic Materials,Metals & Mining,
+YNHB,Others,Others,
+YONG,Others,Others,
+YONGq,Others,Others,
+YSPS,Healthcare,Pharmaceuticals,
+YTLP,Utilities,Multiline Utilities,
+YTLS,Utilities,Multiline Utilities,
+YXPR,Consumer Cyclicals,Textiles & Apparel,
+ZANT,Basic Materials,Chemicals,
+ZCON,Industrials,Construction & Engineering,
+ZENT,Technology,Software & IT Services,
+ZHCO,Consumer Cyclicals,Textiles & Apparel,
+ZLAN,Industrials,Construction & Engineering,
+,Finance,Real Estate Investment Trusts,ATRL
+,Finance,Real Estate Investment Trusts,AXSR
+,Finance,Real Estate Investment Trusts,CAMA
+,Finance,Real Estate Investment Trusts,AMFL
+,Finance,Real Estate Investment Trusts,ALQA
+,Finance,Real Estate Investment Trusts,AMRY
+,Finance,Real Estate Investment Trusts,HEKR
+,Finance,Real Estate Investment Trusts,IGRE
+,Finance,Real Estate Investment Trusts,KIPR
+,Finance,Real Estate Investment Trusts,KLCC
+,Finance,Real Estate Investment Trusts,PREI
+,Finance,Real Estate Investment Trusts,SENT
+,Finance,Real Estate Investment Trusts,SUNW
+,Finance,Real Estate Investment Trusts,TWRE
+,Finance,Real Estate Investment Trusts,UOAR
+,Finance,Real Estate Investment Trusts,YTLR
+,Industrial Services,Engineering & Construction,PROL

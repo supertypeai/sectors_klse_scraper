@@ -1,6 +1,6 @@
 from scraper import scrap_function
 from combiner import combine_data
-from additional_scrapper import scrap_null_data
+from additional_scrapper_tv import scrap_null_data
 import pandas as pd
 from multiprocessing import Process
 import os
@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
   start = time.time()
 
-  # # Divide to processes
+  # Divide to processes
   length_list = len(symbol_list)
   i1 = int(length_list / 4)
   i2 = 2 * i1

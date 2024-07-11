@@ -211,9 +211,9 @@ def scrap_null_data():
           else:
             print(f"Detected None type for Beautifulsoup for {url}")
 
-          attempt +=1
           if (data_dict['sector'] is None and data_dict['sub_sector'] is None):
             print(f"Failed to get data from {url} on attempt {attempt}. Retrying...")
+          attempt +=1
 
       else:
         print(f"This data for {symbol} is not provided in the API")
